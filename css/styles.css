@@ -1,0 +1,179 @@
+.container-fluid {
+   max-width:2000px;
+}
+ul {
+      list-style-type: none;
+      margin: 0;
+padding: 0;
+}
+/* Add green BG color and Remove the navbar's default margin-bottom and rounded borders  */
+.navbar {
+  background-color: green;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.logo{
+margin: -30px;
+}
+
+/* nav items */
+.nav-item {
+  font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  padding-right: 50px;
+
+}
+
+/* change navar text color before hover  */
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255,255,255);
+
+}
+/* after hover */
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgb(0,0,0);
+}
+
+.form-control {
+  padding: 0;
+}
+/* background image */
+.bg-index {
+  /* The image used */
+  background-image: url('https://www.marshall.edu/wp-content/uploads/beckford.jpg');
+  /* Center and scale the image nicely */
+  background-position: 70% 10%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* Styling for general body content */
+.content {
+  font-family: Sentinel A,Sentinel B,Bookman Old Style Regular,serif;
+
+  color: white;
+  text-shadow: 5px 5px 5px rgb(0 0 0 / 30%), 10px 10px 10px rgb(0 0 0 / 40%);
+  letter-spacing: -.025em;
+  padding-left: 5%;
+
+
+}
+
+/* Campus life heading */
+.big-heading {
+  font-weight: 600;
+  font-size: 180px;
+  margin-top: 15%;
+
+
+}
+
+/* smaller heading */
+.small-heading {
+  font-weight: 500;
+  font-size:40px;
+  margin-bottom: 10%;
+}
+
+/* login button */
+.login {
+  margin-bottom: 30%;
+  min-width: 325px;
+  font-size: 2rem;
+  background-color: green;
+  color: white;
+
+}
+
+.login2 {
+  background-color: green;
+  color: white;
+}
+
+.submit-btn{
+  margin-bottom: 5%;
+  min-width: 325px;
+  font-size: 2rem;
+  background-color: green;
+  color: white;
+}
+
+
+
+
+
+/* Set green background color, white text and some padding */
+footer {
+  background-color: green;
+  color: white;
+  padding: 15px 0px 10px;
+}
+
+
+/* contact form map */
+.map-container-section {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container-section iframe {
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+
+
+
+/* media queries  */
+
+@media screen and (max-width: 1500px) {
+.big-heading {
+  font-size:150px;
+}
+.small-heading {
+  font-size: 25px;
+}
+}
+@media screen and (max-width: 1198px) {
+.big-heading {
+  font-size:120px;
+}
+}
+@media screen and (max-width: 767px) {
+
+.big-heading {
+  font-size: 100px;
+}
+}
+
+@media screen and (max-width: 991px){
+  .login {
+    margin-bottom: 60%;
+  }
+}
+
+
+
+ /* @media all and (min-width:767px) {
+
+    .desktop-br {display: inline;}
+
+    .mobile-br {display: none;}
+
+}
+
+@media all and (max-width:766px) {
+
+    .desktop-br {display: none;}
+
+    .mobile-br {display: inline;}
+    .big-heading{margin-top: 45%;}
+
+} */
