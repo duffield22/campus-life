@@ -1,5 +1,4 @@
-
-  <?php require('config.php'); ?>
+<?php require('config.php'); ?>
 <?php
   $msg="";
   $u_id="";

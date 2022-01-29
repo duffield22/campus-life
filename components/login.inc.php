@@ -1,7 +1,4 @@
 <?php
-
-// Initialize the session
-session_start();
 // Check if the user is already logged in, if yes then redirect him to welcome page
 if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
     header("location: welcome.php");
@@ -9,7 +6,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
 }
 
 // Include config file
-require_once "components/config2.php";
+require('config.php'); 
 
 // Define variables and initialize with empty values
 $username = $password = "";
@@ -37,7 +34,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         // Prepare a select statement
         $sql = "SELECT id, username, password FROM users WHERE username = ?";
 
-        if($stmt = $mysqli->prepare($sql)){
+        if($stmt = $conn->prepare($sql)){
             // Bind variables to the prepared statement as parameters
             $stmt->bind_param("s", $param_username);
 
@@ -84,6 +81,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     }
 
     // Close connection
-    $mysqli->close();
+    $conn->close();
 }
 ?>

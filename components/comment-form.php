@@ -1,7 +1,4 @@
-<?php require('head.inc.php'); ?>
 <?php include('action.inc.php'); ?>
-
-
 <div class=" container">
   <div class="row justify-content-center">
     <div class=" col-lg-8 bg-light rounded mt-2 mb-2">
@@ -18,7 +15,7 @@
           <?php if($update==true){ ?>
             <input type="submit" name="update" class="btn btn-success" value="Update Comment">
           <?php } else{ ?>
-          <input type="submit" name="submit" class="login2 btn btn-success" value="Post Comment">
+          <input type="submit" name="submit" class="button-color btn btn-success" value="Post Comment">
         <?php } ?>
           <h5 class="float-end text-success p-2"><?= $msg;  ?></h5>
         </div>

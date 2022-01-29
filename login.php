@@ -1,3 +1,7 @@
+<?php
+// Initialize the session
+session_start();
+?>
 <?php require('components/login.inc.php'); ?>
 <?php require('components/head.inc.php'); ?>
 <?php include('components/navbar.inc.php'); ?>

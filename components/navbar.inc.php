@@ -16,7 +16,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
             <!-- Dropdown menu clubs-->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                CLUBS
+                Clubs
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="club1.php">Club 1</a></li>
@@ -33,7 +33,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
             <!-- Dropdown menu Fraternities -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                FRATERNITIES
+                Fraternities
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="#">Fraternity 1</a></li>
@@ -50,7 +50,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
             <!-- Dropdown menu Sororities -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                SORORITIES
+                Sororities
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="#">Sorority 1</a></li>
@@ -65,18 +65,26 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
               </ul>
             </li>
 
-            <ul>
-              <li class="nav-item">
-                  <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">CONTACT</a></li>
-              </li>
-            </ul>
+
+
+
           </ul>
 
 
-          <form class="search d-flex ms-auto">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-light" type="submit">Search</button>
-          </form>
+              <li class="d-flex ms-auto">
+                <ul>
+                  <!-- Dropdown menu Account -->
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Account
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="components/logout.php">Sign Out</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="components/reset-password.php">Reset Password</a></li>
+                    </ul>
+                  </li>
+            </ul>
 
 
         </div>

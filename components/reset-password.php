@@ -1,6 +1,7 @@
+
 <?php
 // Include config file
-require_once "config2.php";
+require_once("config.php");
 // Initialize the session
 session_start();
 
@@ -9,8 +10,6 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     header("location: login.php");
     exit;
 }
-
-
 
 // Define variables and initialize with empty values
 $new_password = $confirm_password = "";
@@ -43,7 +42,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         // Prepare an update statement
         $sql = "UPDATE users SET password = ? WHERE id = ?";
 
-        if($stmt = $mysqli->prepare($sql)){
+        if($stmt = $conn->prepare($sql)){
             // Bind variables to the prepared statement as parameters
             $stmt->bind_param("si", $param_password, $param_id);
 
@@ -67,9 +66,11 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     }
 
     // Close connection
-    $mysqli->close();
+    $conn->close();
 }
 ?>
+<?php require('head.inc.php'); ?>
+<?php include('navbar.inc.php'); ?>
 
 <div class=" container">
   <div class="row justify-content-center">
@@ -89,11 +90,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <span class="invalid-feedback"><?php echo $confirm_password_err; ?></span>
             </div>
             <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Submit">
-                <a class="btn btn-link ml-2" href="../welcome.php">Cancel</a>
+                <input type="submit" class="button-color btn mt-2" value="Submit">
+                <a class="button-color btn btn-dark ml-2 mt-2" href="../welcome.php">Cancel</a>
             </div>
         </form>
       </div>
     </div>
   </div>
 </div>
+<?php include('footer.inc.php'); ?>
