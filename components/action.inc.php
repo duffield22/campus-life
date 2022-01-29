@@ -1,5 +1,5 @@
 
-  <?php require('components/config.php'); ?>
+  <?php require('config.php'); ?>
 <?php
   $msg="";
   $u_id="";
@@ -22,6 +22,7 @@
     }
   }
 
+
   if(isset($_GET['del'])){
     $id=$_GET['del'];
     $sql="DELETE FROM comment_table WHERE id='$id'";
@@ -31,8 +32,8 @@
 /* Redirect to a different page in the current directory that was requested */
 $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
-$extra = 'club1.php#cmt';
-header("Location: http://$host$uri/$extra");
+$extra = '../club1.php#cmt';
+header("Location: http://$host/$uri/$extra");
 exit;
 
 
@@ -40,6 +41,7 @@ exit;
   }
 
     if(isset($_GET['edit'])){
+
       $id=$_GET['edit'];
 
       $sql="SELECT * FROM comment_table WHERE id='$id'";

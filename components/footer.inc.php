@@ -1,6 +1,6 @@
 <!-- FOOTER SECTION -->
 <section id="foot">
-<footer class="container-fluid text-center">
+<footer class="text-center">
   <p>Copyright © 2022 CAMPUS LIFE</p>
 </footer>
 </section>

@@ -1,6 +1,5 @@
-<?php require('components/head.inc.php'); ?>
-
-<?php include('action.php'); ?>
+<?php require('head.inc.php'); ?>
+<?php include('action.inc.php'); ?>
 
 
 <div class=" container">
@@ -10,14 +9,14 @@
       <form id="cmt" class="p-2" action="<?php echo $_SERVER['PHP_SELF']; ?>#cmt" method="POST">
         <input type="hidden" name="id" value="<?= $u_id; ?>">
         <div class="form-group p-2">
-          <input type="text" name="name" class="form-control rounded-0" placeholder="Enter your name" required value="<?= $u_name; ?>">
+          <input type="text" name="name" class="form-control" placeholder="Enter your name" required value="<?= $u_name; ?>">
         </div>
         <div class="form-group p-2">
-          <textarea name="comment" class="form-control rounded-0" placeholder="Write your comment here" required><?= $u_comment; ?></textarea>
+          <textarea name="comment" class="form-control" placeholder="Write your comment here" required><?= $u_comment; ?></textarea>
         </div>
         <div class="form-group p-2">
           <?php if($update==true){ ?>
-            <input type="submit" name="update" class="btn btn-success rounded-0" value="Update Comment">
+            <input type="submit" name="update" class="btn btn-success" value="Update Comment">
           <?php } else{ ?>
           <input type="submit" name="submit" class="login2 btn btn-success" value="Post Comment">
         <?php } ?>
@@ -43,11 +42,8 @@
           </div>
           <div class="card-footer py-2">
             <div class="float-end">
-              <a href="action.php?del=<?= $row['id'] ?>" class="text-danger mr-2" onclick="return confirm('Do you want to delete this comment?');" title="Delete"><i class="fas fa-trash"></i></a>
-
-
-              <a href="<?php echo $_SERVER['PHP_SELF']; ?>?edit=<?= $row['id'] ?>" class="text-success" title="Edit"><i class="fas fa-edit"></i></a>
-
+              <a href="components/action.inc.php?del=<?= $row['id'] ?>" class="text-danger mr-2" onclick="return confirm('Do you want to delete this comment?');" title="Delete"><i class="fas fa-trash"></i></a>
+              <a href="<?php $_SERVER['PHP_SELF']; ?>?edit=<?= $row['id'] ?>#cmt" class="text-success" title="Edit"><i class="fas fa-edit"></i></a>
             </div>
           </div>
         </div>

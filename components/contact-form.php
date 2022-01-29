@@ -97,17 +97,4 @@
 
     </section>
     <!--Section: Contact v.2-->
-    <?php require('components/scripts.php'); ?>
-
-
-<script>
-$(document).ready(function(){
-$("#contact-form").validate();
-});
-
-$.validator.setDefaults( {
-submitHandler: function () {
-  alert( "submitted!" );
-}
-});
-</script>
+    
