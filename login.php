@@ -21,7 +21,7 @@ session_start();
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group">
                 <label>Username</label>
-                <input type="text" name="username" class="form-control <?php echo (!empty($username_err)) ? 'is-invalid' : ''; ?>" value="<?php echo $username; ?>">
+                <input type="text" name="username" class="form-control <?php echo (!empty($username_err)) ? 'is-invalid' : ''; ?> mb-2" value="<?php echo $username; ?>">
                 <span class="invalid-feedback"><?php echo $username_err; ?></span>
             </div>
             <div class="form-group">
@@ -31,7 +31,7 @@ session_start();
             </div>
 
               <div class="form-group">
-                  <input type="submit" class="login btn btn-lg btn-dark mt-4 mb-2 col-xs-12 col-sm-12 col-md-12  btn-block" value="Login">
+                  <input type="submit" class="submit-btn btn btn-block btn-dark mt-4" value="Login">
               </div>
 
 

@@ -87,14 +87,16 @@ session_start();
                       <div class="form-group row justify-content-center">
                         <div class="col-md-8 mt-2 mb-2">
                           <textarea type="text" class="form-control rounded-0 mb-2" name="message" placeholder="Enter your message here" id="message" rows="3" required></textarea>
-                        </div>
-                        </div>
+
+
                       <!--Grid column-->
                 </form>
 
                   <!--Grid Button-->
                 <div class="center-on-small-only">
-                    <a class="submit-btn btn btn-lg btn-success"onclick="document.getElementById('contact-form').submit();">Send</a>
+                    <a class="contact-btn btn btn-dark mt-3" onclick="document.getElementById('contact-form').submit();">Send</a>
+                </div>
+                </div>
                 </div>
             </div>
 
