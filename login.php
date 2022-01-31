@@ -29,9 +29,12 @@ session_start();
                 <input type="password" name="password" class="form-control <?php echo (!empty($password_err)) ? 'is-invalid' : ''; ?>">
                 <span class="invalid-feedback"><?php echo $password_err; ?></span>
             </div>
-            <div class="form-group">
-                <input type="submit" class="login btn btn-dark mt-2" value="Login">
-            </div>
+
+              <div class="form-group">
+                  <input type="submit" class="btn btn-block btn-dark mt-4 mb-2" value="Login">
+              </div>
+
+
             <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
         </form>
       </div>

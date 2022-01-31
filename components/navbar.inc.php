@@ -119,13 +119,13 @@ else { ?>
 
             <ul>
               <li class="nav-item">
-                  <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">CONTACT</a></li>
+                  <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>
               </li>
             </ul>
 
           <ul>
             <li class="nav-item">
-                <a class="nav-link" href="login.php"  role="button"  aria-expanded="false">LOGIN</a></li>
+                <a class="nav-link" href="login.php"  role="button"  aria-expanded="false">Login</a></li>
             </li>
           </ul>
         </ul>
