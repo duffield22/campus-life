@@ -74,7 +74,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
               <li class="d-flex ms-auto">
                 <ul>
                   <li class="nav-item">
-                      <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">CONTACT</a></li>
+                      <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>
                   </li>
                 </ul>
 
