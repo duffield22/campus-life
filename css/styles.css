@@ -100,7 +100,7 @@ a.nav-link:hover {
 /* login button */
 .login {
   margin-bottom: 30%;
-  min-width: 325px;
+  /* min-width: ; */
   font-size: 2rem;
   background-color: green;
   color: #fff;

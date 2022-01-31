@@ -31,7 +31,7 @@ session_start();
             </div>
 
               <div class="form-group">
-                  <input type="submit" class="btn btn-block btn-dark mt-4 mb-2" value="Login">
+                  <input type="submit" class="login btn btn-lg btn-dark mt-4 mb-2 col-xs-12 col-sm-12 col-md-12  btn-block" value="Login">
               </div>
 
 
