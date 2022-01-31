@@ -2,9 +2,7 @@
    max-width:2000px;
 }
 
-.container-fluid-max {
-  max-width: 100%;
-}
+
 ul {
       list-style-type: none;
       margin: 0;
@@ -100,7 +98,7 @@ a.nav-link:hover {
 /* login button */
 .login {
   margin-bottom: 30%;
-  /* min-width: ; */
+
   font-size: 2rem;
   background-color: green;
   color: #fff;
@@ -176,12 +174,18 @@ footer {
 }
 }
 
+@media screen and (max-width: 544px) {
+
+.big-heading {
+  font-size: 80px;
+}
+}
+
+
 @media screen and (max-width: 991px){
   /* login button */
   .login {
     margin-bottom: 60%;
-
-
   }
 }
 
