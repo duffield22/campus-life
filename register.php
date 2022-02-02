@@ -9,7 +9,7 @@ session_start();
 
 <div class="container">
   <div class="row justify-content-center">
-    <div class=" col-lg-8 bg-light rounded mt-2 mb-2">
+    <div class=" col-lg-6 bg-light rounded mt-2 mb-2">
       <div class="wrapper">
           <h2>Sign Up</h2>
           <p>Please fill this form to create an account.</p>
@@ -30,8 +30,7 @@ session_start();
                   <span class="invalid-feedback"><?php echo $confirm_password_err; ?></span>
               </div>
               <div class="form-group">
-                  <input type="submit" class="btn btn-primary" value="Submit">
-                  <input type="reset" class="btn btn-secondary ml-2" value="Reset">
+                  <input type="submit" class="submit-btn btn btn-block btn-dark mt-4" value="Submit">
               </div>
               <p>Already have an account? <a href="login.php">Login here</a>.</p>
           </form>

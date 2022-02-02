@@ -117,17 +117,23 @@ else { ?>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 
+
             <ul>
               <li class="nav-item">
-                  <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>
+                  <a class="nav-link" href="login.php"  role="button"  aria-expanded="false">Login</a></li>
               </li>
             </ul>
 
-          <ul>
-            <li class="nav-item">
-                <a class="nav-link" href="login.php"  role="button"  aria-expanded="false">Login</a></li>
-            </li>
-          </ul>
+            <ul>
+              <li class="nav-item">
+                  <a class="nav-link" href="register.php"  role="button"  aria-expanded="false">Register</a></li>
+              </li>
+            </ul>
+
+        <ul>
+          <li class="nav-item">
+              <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>
+          </li>
         </ul>
   </ul>
 
