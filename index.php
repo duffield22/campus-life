@@ -9,7 +9,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
 <?php require('components/navbar.inc.php'); ?>
   <!-- BODY SECTION -->
   <section class="bg-index" id="body-section">
-  <div class="container-lg">
+  <div class="container-fluid">
     <div class="row content">
       <div class="col">
         <h1 class="big-heading">CAMPUS<span class="moblie-br"></span> <br class="desktop-br"> LIFE.</h1>
