@@ -15,7 +15,7 @@ h3 {
 
 /* Add green BG color and Remove the navbar's default margin-bottom and rounded borders  */
 .navbar {
-  background-color: green;
+  background-color: #00ac3e;
   margin-bottom: 0;
   border-radius: 0;
 }
