@@ -43,6 +43,7 @@ session_start();
       </div>
     </div>
   </div>
+
 <?php require('components/comment-form.php'); ?>
 
 
@@ -62,7 +63,7 @@ session_start();
                   <div class="col-lg-4">
                       <div class="contact-info">
                           <h4 class="title mb-4">Phone Number:</h4>
-                    
+
                              <p class="text-sub size-15 mb-4"><i class="fas fa-phone"></i> 659-888-5495</p>
                       </div>
                   </div>
