@@ -19,7 +19,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
                 Clubs
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="club1.php">Club 1</a></li>
+                <li><a class="dropdown-item" href="anime.php">Anime and Manga</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#">Club 2</a></li>
                 <li><hr class="dropdown-divider"></li>
@@ -71,7 +71,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
           </ul>
 
 
-              <li class="d-flex ms-auto">
+              <li class="navbar-nav d-flex ms-auto">
                 <ul>
                   <li class="nav-item">
                       <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>

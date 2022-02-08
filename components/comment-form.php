@@ -1,8 +1,8 @@
 <?php include('action.inc.php'); ?>
 <div class=" container">
   <div class="row justify-content-center">
-    <div class=" col-lg-8 bg-light rounded mt-2 mb-2">
-      <h4 class="text-center p-4">Write your comment!</h4>
+    <div class=" col-lg-12 bg-light rounded mt-2 mb-2">
+    
       <form id="cmt" class="p-2" action="<?php echo $_SERVER['PHP_SELF']; ?>#cmt" method="POST">
         <input type="hidden" name="id" value="<?= $u_id; ?>">
         <div class="form-group p-2">
@@ -23,7 +23,7 @@
     </div>
   </div>
   <div class="row justify-content-center">
-    <div class="col-lg-8 rounded bg-light p-3">
+    <div class="col-lg-12 rounded bg-light p-3">
       <?php
         $sql="SELECT * FROM comment_table ORDER BY id DESC";
         $result=$conn->query($sql);

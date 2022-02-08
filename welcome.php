@@ -30,5 +30,4 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
         </div>
       </div>
       </section>
-
 <?php require('components/footer.inc.php'); ?>

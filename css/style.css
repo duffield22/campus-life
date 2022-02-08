@@ -1,3 +1,8 @@
+
+/*********************************************/
+/*              GENERAL CSS                  "/
+/*********************************************/
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
 body {
   font-family: "Poppins", sans-serif;
@@ -18,140 +23,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
-.container-fluid {
-   max-width: 1500px;
-}
 
-
-ul {
-      list-style-type: none;
-      margin: 0;
-padding: 0;
-}
-
-
-
-/* Add green BG color and Remove the navbar's default margin-bottom and rounded borders  */
-.navbar {
-  background-color: #00ac3e;
-  margin-bottom: 0;
-  border-radius: 0;
-}
-
-.logo{
-margin: -30px;
-}
-
-/* nav items */
-.nav-item {
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-size: 30px;
-  padding-right: 50px;
-
-}
-
-
-/* change navar text color before hover  */
-.navbar-dark .navbar-nav .nav-link {
-    color: #fff;
-
-}
-
-a.nav-link {
-  color: #fff;
-}
-
-a.nav-link:hover {
-  color: #000000;
-}
-
-/* after hover */
-.navbar-dark .navbar-nav .nav-link:hover {
-    color: #000000;
-}
-
-.form-control {
-  padding: 0;
-}
-
-/* background image */
-.bg-index {
-  /* The image used */
-  background-image: url('https://www.marshall.edu/wp-content/uploads/beckford.jpg');
-  /* Center and scale the image nicely */
-  background-position: 70% 10%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-
-/* Styling for general body content */
-.content {
-  font-family: 'Lato', sans-serif;
-  color: #fff;
-  text-shadow: 5px 5px 5px rgb(0 0 0 / 30%), 10px 10px 10px rgb(0 0 0 / 40%);
-  letter-spacing: -.025em;
-  padding-left: 5%;
-}
-
-/* Campus life heading */
-.big-heading {
-  font-weight: 400;
-  font-size: 180px;
-  margin-top: 15%;
-
-
-}
-
-/* smaller heading */
-.small-heading {
-  font-weight: 500;
-  font-size:40px;
-  margin-bottom: 10%;
-}
-
-/* login button */
-.login {
-  margin-bottom: 30%;
-  min-width: 325px;
-  font-size: 2rem;
-  background-color:  #00ac3e;
-  color: #fff;
-
-}
-
-.button-color {
-  background-color:  #00ac3e;
-  color: #fff;
-}
-
-.submit-btn{
-  margin-bottom: 5%;
-  min-width: 100%;
-  font-size: 2rem;
-  background-color:  #00ac3e;
-  color: #fff;
-}
-
-.contact-btn{
-  margin-bottom: 5%;
-  min-width: 100%;
-  font-size: 2rem;
-  background-color:  #00ac3e;
-  color: #fff;
-}
-
-
-.button-color:hover{
-    color: #000000;
-    border-color: #fff; /*set the color you want here*/
-    -webkit-transition: all 0.5s;
-    transition: all 0.5s;
-    -webkit-transform: translateY(-2px);
-    transform: translateY(-2px);
-
-}
 
 /*********************************************/
 /*              UTILITY CSS                  "/
@@ -171,7 +43,7 @@ a.nav-link:hover {
   color: #00ac3e;
 }
 .section {
-  padding: 15px 0px 80px 0px;
+  padding: 15px 0px 120px 0px;
   position: relative;
 }
 .size-14 {
@@ -281,88 +153,3 @@ a.nav-link:hover {
   color: #9b9bae;
   font-size: 15px;
 }
-
-
-
-
-/* Set green background color, white text and some padding */
-footer {
-  background-color:  #00ac3e;
-  color: white;
-  padding: 15px 0px 10px;
-}
-
-
-/* contact form map */
-.map-container-section {
-  overflow:hidden;
-  padding-bottom:56.25%;
-  position:relative;
-  height:0;
-}
-.map-container-section iframe {
-  left:0;
-  top:0;
-  height:100%;
-  width:100%;
-  position:absolute;
-}
-
-
-
-
-
-
-
-/* media queries  */
-
-@media screen and (max-width: 1500px) {
-.big-heading {
-  font-size:150px;
-}
-.small-heading {
-  font-size: 25px;
-}
-}
-@media screen and (max-width: 1198px) {
-.big-heading {
-  font-size:120px;
-}
-}
-
-@media screen and (max-width: 991px){
-  /* login button */
-  .login {
-    margin-bottom: 60%;
-  }
-}
-
-@media screen and (max-width: 767px) {
-
-.big-heading {
-  font-size: 60px;
-}
-}
-
-
-
-
-
-
-
- /* @media all and (min-width:767px) {
-
-    .desktop-br {display: inline;}
-
-    .mobile-br {display: none;}
-
-}
-
-@media all and (max-width:766px) {
-
-    .desktop-br {display: none;}
-
-    .mobile-br {display: inline;}
-    .big-heading{margin-top: 45%;}
-
-} */
