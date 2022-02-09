@@ -68,11 +68,16 @@ session_start();
                             <div class="md-form py-3">
                                 <select id="department-selection" class="float-start" name="concerned_department">
                                     <option value="">Select an Organization</option>
-                                    <option value="club1">Club1</option>
-                                    <option value="club2">Club2</option>
-                                    <option value="club3">Club3</option>
-                                    <option value="club4">Club4</option>
-                                    <option value="club5">Club5</option>
+                                    <option value="club1">Anime and Manga</option>
+                                    <option value="club2">Archery</option>
+                                    <option value="club3">Marching Thunder</option>
+                                    <option value="club4">Ascenders Climbing</option>
+                                    <option value="club5">Fencing</option>
+                                    <option value="club6">Marshall Smashers</option>
+                                    <option value="club7">King of Kings Chess</option>
+                                    <option value="club8">Rugby Football</option>
+                                    <option value="club9">Esports Association</option>
+                                    <option value="club10">Force of Thundering Will</option>
                                     <option value="fraternity1">Fraternity1</option>
                                     <option value="fraternity1">Fraternity1</option>
                                     <option value="fraternity1">Fraternity1</option>
@@ -84,7 +89,7 @@ session_start();
                         </div>
                     </div>
                       <!--Grid row-->
-
+                      
                       <!--Grid column-->
                       <div class="form-group row justify-content-center">
                         <div class="col mt-2 mb-2">
