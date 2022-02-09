@@ -325,11 +325,27 @@ footer {
 .small-heading {
   font-size: 25px;
 }
+
 }
 @media screen and (max-width: 1198px) {
 .big-heading {
   font-size:120px;
 }
+}
+
+@media screen and (min-width: 1198px) {
+  .navLogin {
+    background-color: #000000;
+    border-color: #fff;
+    border-width: 3px;
+    border-style: solid;
+    padding: 17px 21px;
+    border-radius: 300px;
+  }
+  .navLogin:hover {
+    background-color: #fff;
+    border-color: #000000;
+  }
 }
 
 @media screen and (max-width: 991px){
