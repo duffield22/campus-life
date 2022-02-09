@@ -12,7 +12,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
   <div class="container-fluid">
     <div class="row content">
       <div class="col">
-        <h1 class="big-heading">CAMPUS<span class="moblie-br"></span> <br class="desktop-br"> LIFE.</h1>
+        <h1 class="big-heading">CAMPUS</br> LIFE.</h1>
       </div>
     </div>
     <div class="row content">

@@ -13,24 +13,25 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">Anime & Manga<span class="mobile-br"></span> <br class="desktop-br">Association</h2>
-                      <p class="text-sub size-16">Many people love anime, so it is no surprise that Marshall University would have their own club.</p>
+                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">The Archery Club</h2>
+
+                      <p class="text-sub size-16">The archery club allows people who are interested in the skill a safe archery range to be taught the experience of archery.</p>
                   </div>
               </div>
           </div>
           <div class="row align-items-center">
               <div class="col-lg-5">
-                  <img src="https://i.pinimg.com/736x/cc/ca/f5/cccaf5719de6c63b42cbde2c3b842a75--do-you-anime-characters.jpg" alt="" class="img-fluid mx-auto d-block">
+                  <img src="https://scontent.fric1-2.fna.fbcdn.net/v/t1.6435-9/70113009_113226533396113_4552350589966614528_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=Lfeed46qt1gAX_MB7nR&_nc_ht=scontent.fric1-2.fna&oh=00_AT_A6LwqYJHiAER_co476drFCPs8KcJJA8FMoSDfluzf6A&oe=62277037" alt="" class="img-fluid mx-auto d-block">
               </div>
               <div class="col-lg-6 offset-lg-1">
                   <div class="text-sub mt-5 mt-lg-0">
-                      <h3 class="title font-weight-medium mb-4">A perfect club for anyone who enjoys anime.</h3>
-                      <p class="mb-4 size-18">Anime & Manga Association (MAMA) is a student organization that is dedicated to watching and talking about Japanese anime, manga, and anything related. Both anime and manga can come in many different shapes and forms: slice-of-life, Shonen, magical girl, dystopia, and many other genres. The purpose of the Anime & Manga Association help Marshall students has a break from all the stress and make connections with other people while enjoying the latest Japanese animation and other aspects of Japanese pop culture. Some club members even bring attention to anime and manga that are not well known by many. Of course, some club members will not have the same opinion, but members know to be respectful of other’s opinion. The advisor of the Anime and Manga Association club is Natsuki Anderson, who encourages all members to talk about their favorite kind of anime, even if it is not well-known.</p>
-                      <a href="#contact" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
-                      <a class="btn float-end" href="https://www.facebook.com/groups/10094501846/" role="button"><i class="fa fa-facebook"></i></a>
-                      <a class="btn float-end" href="https://www.instagram.com/marshalluanime/" role="button"><i class="fa fa-instagram"></i></a>
-
-
+                      <h3 class="title font-weight-medium mb-4">A perfect club for anyone who is interested in archery.</h3>
+                      <p class="mb-4 size-18">The archery club allows people to practice recreational archery by shooting arrows at targets. The club also has the hopes of bringing in more people interested in the ancient and noble sport of archery for education and enjoyment for generations of future archers. Carrie Nilles is the advisor of the club and is responsible for the safety of the members of the club. The archery club focuses on shooting arrows at targets but in the event of an unfortunate accident, the club has officers who are trained in first aid and CPR. If newcomers get cold feet about joining because of their lack of skills, that would not be a problem because the archery club requires no experience to join. Archery can get easier if you keep trying and practicing. Some say that the archery club makes them feel like favorite fictional archery characters like Green Arrow, Hawkeye, Legolas, and many more.
+                      </p>
+                      <a href="#contact" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a></br>
+                      <a class="btn float-end" href="https://www.facebook.com/mu.archery" role="button"><i class="fa fa-facebook"></i></a>
+                      <a class="btn float-end" href="https://twitter.com/mu_archeryclub" role="button"><i class="fa fa-twitter"></i></a>
+                      <a class="btn float-end" href="https://www.instagram.com/mu_archery/?hl=bn" role="button"><i class="fa fa-instagram"></i></a>
                   </div>
               </div>
           </div>
@@ -59,7 +60,7 @@ session_start();
                   <div class="col-lg-6 col-md-8">
                       <div class="text-center mb-5 mt-5">
                            <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">Contact</h2>
-                          <p class="text-sub size-16">Intersted in joining the Anime and Manga Association? Give them a call, or send a message below.</p>
+                          <p class="text-sub size-16">Intersted in joining the Archery Club? Give them a call, or send a message below.</p>
                       </div>
                   </div>
               </div>

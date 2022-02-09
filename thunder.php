@@ -13,24 +13,25 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">Anime & Manga<span class="mobile-br"></span> <br class="desktop-br">Association</h2>
-                      <p class="text-sub size-16">Many people love anime, so it is no surprise that Marshall University would have their own club.</p>
+                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">The Marching Thunder</h2>
+
+                      <p class="text-sub size-16">Every football team has a cheering spirit so it is fitting that Marshall University would have a club centered on one.</p>
                   </div>
               </div>
           </div>
           <div class="row align-items-center">
               <div class="col-lg-5">
-                  <img src="https://i.pinimg.com/736x/cc/ca/f5/cccaf5719de6c63b42cbde2c3b842a75--do-you-anime-characters.jpg" alt="" class="img-fluid mx-auto d-block">
+                  <img src="https://i.ytimg.com/vi/MU--9IuS8Zc/maxresdefault.jpg" alt="" class="img-fluid mx-auto d-block">
               </div>
               <div class="col-lg-6 offset-lg-1">
                   <div class="text-sub mt-5 mt-lg-0">
-                      <h3 class="title font-weight-medium mb-4">A perfect club for anyone who enjoys anime.</h3>
-                      <p class="mb-4 size-18">Anime & Manga Association (MAMA) is a student organization that is dedicated to watching and talking about Japanese anime, manga, and anything related. Both anime and manga can come in many different shapes and forms: slice-of-life, Shonen, magical girl, dystopia, and many other genres. The purpose of the Anime & Manga Association help Marshall students has a break from all the stress and make connections with other people while enjoying the latest Japanese animation and other aspects of Japanese pop culture. Some club members even bring attention to anime and manga that are not well known by many. Of course, some club members will not have the same opinion, but members know to be respectful of other’s opinion. The advisor of the Anime and Manga Association club is Natsuki Anderson, who encourages all members to talk about their favorite kind of anime, even if it is not well-known.</p>
-                      <a href="#contact" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
-                      <a class="btn float-end" href="https://www.facebook.com/groups/10094501846/" role="button"><i class="fa fa-facebook"></i></a>
-                      <a class="btn float-end" href="https://www.instagram.com/marshalluanime/" role="button"><i class="fa fa-instagram"></i></a>
-
-
+                      <h3 class="title font-weight-medium mb-4">Marshall University Bands</h3>
+                      <p class="mb-4 size-18">The club that makes up the university’s marching band is called the Marching Thunder. The Marching Thunder club provides entertainment and school spirit at sport games, bowl games, and community events. It is known as the biggest and most noticeable organization on the campus. Leaders of the club motivate club members to practice their instruments, decide which members work well of each other the best, and have each member synchronize perfectly with each other. This club requires payment of $85 that covers instruction, food, and additional materials.
+                      </p>
+                      <a href="#contact" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a></br>
+                      <a class="btn float-end" href="https://www.facebook.com/MarshallUSoMBands/" role="button"><i class="fa fa-facebook"></i></a>
+                      <a class="btn float-end" href="https://twitter.com/marshallubands" role="button"><i class="fa fa-twitter"></i></a>
+                      <a class="btn float-end" href="https://www.instagram.com/marshallubands/?hl=en" role="button"><i class="fa fa-instagram"></i></a>
                   </div>
               </div>
           </div>
@@ -59,7 +60,7 @@ session_start();
                   <div class="col-lg-6 col-md-8">
                       <div class="text-center mb-5 mt-5">
                            <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">Contact</h2>
-                          <p class="text-sub size-16">Intersted in joining the Anime and Manga Association? Give them a call, or send a message below.</p>
+                          <p class="text-sub size-16">Intersted in joining the Marching Thunder? Give them a call, or send a message below.</p>
                       </div>
                   </div>
               </div>

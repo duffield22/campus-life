@@ -21,13 +21,23 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="anime.php">Anime and Manga</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Club 2</a></li>
+                <li><a class="dropdown-item" href="archery.php">Archery</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Club 3</a></li>
+                <li><a class="dropdown-item" href="thunder.php">Marching Thunder</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Club 4</a></li>
+                <li><a class="dropdown-item" href="climbing.php">Ascenders Climbing</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Club 5</a></li>
+                <li><a class="dropdown-item" href="fencing.php">Fencing</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="smash.php">Marshall Smashers</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="kings.php">King of Kings Chess</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="rugby.php">Rugby Football</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="esports.php">Esports Association</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="forceofwill.php">Force of Thundering Will</a></li>
               </ul>
             </li>
             <!-- Dropdown menu Fraternities -->
