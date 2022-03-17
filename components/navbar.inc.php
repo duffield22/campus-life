@@ -21,13 +21,17 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
                 Academics
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="#">College of Health Professions</a></li>
+                <li><a class="dropdown-item" href="generalinfo.php">General Info</a></li>
+
+                <li><hr class="dropdown-divider"><strong>Undergraduate Programs</strong></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="health.php">College of Health Professions</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#">College of Engineering and Computer Science</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#">College of Education and Professional Development</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">College of Science</a></li>
+                <li><a class="dropdown-item" href="science.php">College of Science</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#">College of Liberal Arts</a></li>
                 <li><hr class="dropdown-divider"></li>
@@ -38,8 +42,22 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
                 <li><a class="dropdown-item" href="#">School of Medicine</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#">School of Pharmacy</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><hr class="dropdown-divider">,<strong>Graduate Programs</strong></li>
+                <li><a class="dropdown-item" href="#">Coming Soon</a></li>
               </ul>
             </li>
+
+            <!-- Dropdown menu Athletics -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Athletics
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#">Coming Soon</a></li>
+              </ul>
+            </li>
+
             <!-- Dropdown menu Fraternities -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -91,17 +109,30 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
                 <li><a class="dropdown-item" href="forceofwill.php">Force of Thundering Will</a></li>
               </ul>
             </li>
-
-
           </ul>
 
 
+
+          <!-- menu FAQ -->
+          <li class="navbar-nav d-flex ms-auto">
+            <ul>
+              <li class="nav-item">
+                  <a class="nav-link" href="faq.php"  role="button"  aria-expanded="false">FAQ</a></li>
+              </li>
+            </ul>
+
+
+
+                      <!-- menu Contact -->
               <li class="navbar-nav d-flex ms-auto">
                 <ul>
                   <li class="nav-item">
                       <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>
                   </li>
                 </ul>
+
+
+
 
                 <ul>
                   <!-- Dropdown menu Account -->
@@ -116,12 +147,8 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
                     </ul>
                   </li>
             </ul>
-
-
         </div>
-
       </div>
-
     </nav>
   </section>
 

@@ -57,7 +57,12 @@ margin: -30px;
     color: #fff;
 
 }
-
+a{
+  color: #00ac3e;
+}
+a:hover {
+  color: black;
+}
 a.nav-link {
   color: #fff;
 }
@@ -158,7 +163,7 @@ a.nav-link:hover {
 /*********************************************/
 
 .text-sub {
-  color: #9b9bae !important;
+  color: #444444;
 }
 .bg-grey {
   background-color: #F8F6FA !important;
@@ -311,11 +316,6 @@ footer {
 }
 
 
-
-
-
-
-
 /* media queries  */
 
 @media screen and (max-width: 1500px) {
@@ -340,7 +340,7 @@ footer {
     border-width: 3px;
     border-style: solid;
     padding: 17px 21px;
-    border-radius: 300px;
+    border-radius: 10px;
   }
   .navLogin:hover {
     background-color: #fff;
