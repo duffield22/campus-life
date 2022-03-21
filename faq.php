@@ -15,23 +15,8 @@ session_start();
 
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>FAQ</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="faq/css/bootstrap.css" />
-  <link rel="stylesheet" type="text/css" href="faq/font-awesome/css/font-awesome.css" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css">
-  <!-- include JS -->
-  <script src="faq/js/jquery-3.3.1.min.js"></script>
-  <script src="faq/js/bootstrap.js"></script>
-</head>
-<body>
+
+<?php include('components/head.inc.php'); ?>
 
 <?php include('components/navbar.inc.php'); ?>
 
