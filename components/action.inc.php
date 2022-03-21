@@ -31,7 +31,7 @@
 /* Redirect to a different page in the current directory that was requested */
 $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
-$extra = '../anime.php#cmt';
+$extra = '../faq.php#cmt';
 header("Location: http://$host/$uri/$extra");
 exit;
 

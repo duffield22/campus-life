@@ -1,5 +1,4 @@
-<?php
-if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
+
 
   <section id="nav">
     <nav class="navbar navbar-expand-xl navbar-dark ">
@@ -66,18 +65,10 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><hr class="dropdown-divider">Fraternities</li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Fraternity 1</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Fraternity 2</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Fraternity 3</a></li>
+                <li><a class="dropdown-item" href="#">Coming Soon</a></li>
                 <li><hr class="dropdown-divider">Sororities</li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Sorority 1</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Sorority 2</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Sorority 3</a></li>
+                <li><a class="dropdown-item" href="#">Coming Soon</a></li>
               </ul>
             </li>
 
@@ -134,8 +125,9 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
 
 
 
-                <ul>
-                  <!-- Dropdown menu Account -->
+              <!-- Dropdown menu Account no longer using
+              <ul>
+
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Account
@@ -147,16 +139,14 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){?>
                     </ul>
                   </li>
             </ul>
+              -->
         </div>
       </div>
     </nav>
   </section>
 
-<?php }
 
-
-else { ?>
-
+<!-- nav for logged out user no longer using
   <section id="nav">
     <nav class="navbar navbar-expand-xl navbar-dark ">
       <div class="container-fluid">
@@ -186,5 +176,4 @@ else { ?>
 
     </nav>
   </section>
-
-<?php } ?>
+-->

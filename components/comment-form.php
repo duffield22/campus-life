@@ -2,10 +2,11 @@
 <div class=" container">
   <div class="row justify-content-center">
     <div class=" col-lg-12 bg-light rounded mt-2 mb-2">
-    
+
       <form id="cmt" class="p-2" action="<?php echo $_SERVER['PHP_SELF']; ?>#cmt" method="POST">
         <input type="hidden" name="id" value="<?= $u_id; ?>">
         <div class="form-group p-2">
+          <h2>Have a question not answered here? Leave a comment below.</h2>
           <input type="text" name="name" class="form-control" placeholder="Enter your name" required value="<?= $u_name; ?>">
         </div>
         <div class="form-group p-2">
