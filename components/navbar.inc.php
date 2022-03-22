@@ -26,22 +26,17 @@
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="health.php">College of Health Professions</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">College of Engineering and Computer Science</a></li>
+                <li><a class="dropdown-item" href="engineeringandcs.php">College of Engineering<span class="mobile-br"></span> <br class="desktop-br"> and Computer Science</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">College of Education and Professional Development</a></li>
+                <li><a class="dropdown-item" href="education.php">College of Education<span class="mobile-br"></span> <br class="desktop-br"> and Professional Development</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="science.php">College of Science</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">College of Liberal Arts</a></li>
+                <li><a class="dropdown-item" href="liberalarts.php">College of Liberal Arts</a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">College of Business</a></a></li>
+                <li><a class="dropdown-item" href="business.php">College of Business</a></a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">College of Arts and Media</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">School of Medicine</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">School of Pharmacy</a></li>
-                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="artsandmedia.php">College of Arts and Media</a></li>
                 <li><hr class="dropdown-divider">,<strong>Graduate Programs</strong></li>
                 <li><a class="dropdown-item" href="#">Coming Soon</a></li>
               </ul>

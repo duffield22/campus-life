@@ -20,8 +20,42 @@ session_start();
                   </div>
               </div>
           </div>
+          <div class="dropdown">
+            <button class="dropbtn">Dropdown Selection</button>
+            <div class="dropdown-content">
+              <a href="#1">Biochemistry</a>
+              <hr class="dropdown-divider">
+              <a href="#2">Biological Sciences</a>
+              <hr class="dropdown-divider">
+              <a href="#3">Chemical Sciences</a>
+              <hr class="dropdown-divider">
+              <a href="#4">Chemistry (ACS Certified)</a>
+              <hr class="dropdown-divider">
+              <a href="#5">Computer and Information Technology</a>
+              <hr class="dropdown-divider">
+              <a href="#6">Cyber Forensics and Security</a>
+              <hr class="dropdown-divider">
+              <a href="#7">Environmental Chemistry</a>
+              <hr class="dropdown-divider">
+              <a href="#8">Forensic Chemistry</a>
+              <hr class="dropdown-divider">
+              <a href="#9">Geology</a>
+              <hr class="dropdown-divider">
+              <a href="#10">Mathematics</a>
+              <hr class="dropdown-divider">
+              <a href="#11">Natural Resources and Recreation Management</a>
+              <hr class="dropdown-divider">
+              <a href="#12">Physics</a>
+              <hr class="dropdown-divider">
+              <a href="#13">Specialty Agriculture</a>
+              <hr class="dropdown-divider">
+              <a href="#14">Statistics</a>
+              <hr class="dropdown-divider">
+              <a href="#15">Pre-Professional Programs</a>
+            </div>
+          </div>
           <!-- Degree Start -->
-          <div class="row align-items-center mb-5">
+          <div class="row align-items-center mb-5"id=1>
               <div class="col-lg-12 col-md-12">
                   <div class="text-sub mt-5 mt-lg-0">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/biochemistry-bs/">Biochemistry, B.S.</a></h3>
@@ -43,7 +77,7 @@ session_start();
 
 
               <!-- Degree Start -->
-              <div class="row align-items-center mb-5 mt-3">
+              <div class="row align-items-center mb-5 mt-3"id=2>
                   <div class="col-lg-12 col-md-12">
                       <div class="text-sub mt-5 mt-lg-0">
                           <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/biological-sciences-bs/">Biological Sciences, B.S.</a></h3>
@@ -61,7 +95,7 @@ session_start();
                 <!-- Degree End -->
 
                 <!-- Degree Start -->
-                <div class="row align-items-center mb-5 mt-3">
+                <div class="row align-items-center mb-5 mt-3"id=3>
                     <div class="col-lg-12 col-md-12">
                         <div class="text-sub mt-5 mt-lg-0">
                             <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/chemical-sciences-bs/">Chemical Sciences, B.S.</a></h3>
@@ -80,10 +114,10 @@ session_start();
                   <!-- Degree End -->
 
                   <!-- Degree Start -->
-                  <div class="row align-items-center mb-5 mt-3">
+                  <div class="row align-items-center mb-5 mt-3"id=4>
                       <div class="col-lg-12 col-md-12">
                           <div class="text-sub mt-5 mt-lg-0">
-                              <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/chemistry-bs/">Chemistry (ACS Certified), B.S.</a></h3>
+                              <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/chemistry-bs/">Chemistry <span class="mobile-br"></span> <br class="desktop-br">(ACS Certified), B.S.</a></h3>
                               <p class="mb-4 size-18">The study of chemistry is the pathway for students who hope to become professional scientists with an interest in chemically related processes. Career opportunities for students like you include such positions as research and development chemist, laboratory director, forensic analyst, high school chemistry teacher and college professor. Choosing chemistry as a major is also appropriate for those students who wish to become senior healthcare providers, including physicians, dentists, pharmacists, veterinarians and physician assistants.</p>
                               <p class="mb-4 size-18">Students who are interested in professions such as patent law or technical sales also may benefit from studying chemistry. Future lawyers and sales representatives frequently come from other academic majors, but the technical knowledge drawn from training in chemistry can offer added value for professionals in those fields.</p>
                               <p class="mb-4 size-18">Earning your Bachelor of Science in Chemistry at Marshall University in Huntington, West Virginia, will fully prepare you for a career in chemistry or for other top professional work in medicine, law, healthcare and many other fields.</p>
@@ -101,10 +135,10 @@ session_start();
                     <!-- Degree End -->
 
                     <!-- Degree Start -->
-                    <div class="row align-items-center mb-5 mt-3">
+                    <div class="row align-items-center mb-5 mt-3"id=5>
                         <div class="col-lg-12 col-md-12">
                             <div class="text-sub mt-5 mt-lg-0">
-                                <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/computer-and-information-technology-bs/">Computer and Information Technology, B.S.</a></h3>
+                                <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/computer-and-information-technology-bs/">Computer and <span class="mobile-br"></span> <br class="desktop-br">Information Technology, B.S.</a></h3>
                                 <p class="mb-4 size-18">Technology has become so prevalent and pervasive, it is now used in almost every discipline, with IT devices being available from fields like agriculture to robotics. A bachelor of arts degree in computer and information technology prepares students to work anywhere and in any field.</p>
                                 <p class="mb-4 size-18">Information technology is constantly evolving, which will provide graduates with interesting work as the integration of computer and information technology continues to propagate through nearly every device we touch on a daily basis. Not only is building IT applications for today’s world fun, it also provides graduates with an opportunity for high-paying salaries.</p>
                                 <p class="mb-4 size-18">CIT skills are highly marketable and graduates are prepared for careers in any of today’s industries that use Information Technology. The integrated nature of the educational experience enables graduates to combine their IT skills with the intellectual flexibility needed to be critical thinkers and problem solvers. They are also effective communicators able to interact with clients, coworkers and managers. Faculty at Marshall work to help students develop real-life employable skills through hands-on experience while providing students access to emerging technologies.</p>
@@ -125,10 +159,10 @@ session_start();
                       <!-- Degree End -->
 
                       <!-- Degree Start -->
-                      <div class="row align-items-center mb-5 mt-3">
+                      <div class="row align-items-center mb-5 mt-3"id=6>
                           <div class="col-lg-12 col-md-12">
                               <div class="text-sub mt-5 mt-lg-0">
-                                  <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/cyber-forensics-and-security-bs/">Cyber Forensics and Security, B.S.</a></h3>
+                                  <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/cyber-forensics-and-security-bs/">Cyber Forensics<span class="mobile-br"></span> <br class="desktop-br"> and Security, B.S.</a></h3>
                                   <p class="mb-4 size-18">Digital forensics is a form of forensic science that involves data recovery from digital devices during forensic investigations. Computers and other digital devices hold a wealth of information, including text, digital images, audio and video, which can serve as key evidence for solving crimes. Forensic software programs can be used to get images from digital storage media and analyze it. Information assurance involves protecting data and information against risks during processing, storage and transmission.</p>
                                   <p class="mb-4 size-18">The Cyber Forensics and Security bachelor’s degree program at Marshall University in Huntington, West Virginia, helps our students hone forensic science and computer forensics skills to investigate cybersecurity problems. Our Digital Forensics faculty have real-world experience and emphasize critical thinking, problem solving and communication. The curriculum teaches technology-based forensic science skills in a challenging, hands-on environment, using many of the same professional tools, techniques and procedures you will use upon entering the workforce.</p>
                                   <h4 class="header-colorize">Why study Cyber Forensics and Security at Marshall University?</h4>
@@ -144,10 +178,10 @@ session_start();
                         <!-- Degree End -->
 
                         <!-- Degree Start -->
-                        <div class="row align-items-center mb-5 mt-3">
+                        <div class="row align-items-center mb-5 mt-3"id=7>
                             <div class="col-lg-12 col-md-12">
                                 <div class="text-sub mt-5 mt-lg-0">
-                                    <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/environmental-chemistry-bs/">Environmental Chemistry, B.S.</a></h3>
+                                    <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/environmental-chemistry-bs/">Environmental<span class="mobile-br"></span> <br class="desktop-br"> Chemistry, B.S.</a></h3>
                                     <p class="mb-4 size-18">Environmental chemists monitor what’s in the air, water and soil to study how chemicals enter and impact the environment. These scientists also study how human activity affects the environment. As an environmental chemist, you’ll monitor the source and extent of pollution and contamination, especially how it affects our human health, and promote sustainability, conservation and protection.</p>
                                     <p class="mb-4 size-18">Marshall University in Huntington, WV, can start you on this path with the Bachelor of Science (BS) in Environmental Chemistry degree program. Completing the Environmental Chemistry major prepares you for career opportunities in environmental chemistry, toxicology, environmental policy, consulting and more.</p>
                                     <p class="mb-4 size-18">The bachelor’s degree in Environmental Chemistry program also is an excellent choice for students who plan to go on for professional training in the fields of law, public policy, safety, industrial hygiene or business where they can apply their chemistry knowledge in new ways. According to the American Chemical Society (ACS), environmental chemists can be involved in analytical testing or new product development in the lab, or work with users of chemicals in the field, and oversee safety and regulatory issues in an office.</p>
@@ -168,7 +202,7 @@ session_start();
                           <!-- Degree End -->
 
                           <!-- Degree Start -->
-                          <div class="row align-items-center mb-5 mt-3">
+                          <div class="row align-items-center mb-5 mt-3"v8>
                               <div class="col-lg-12 col-md-12">
                                   <div class="text-sub mt-5 mt-lg-0">
                                       <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/forensic-chemistry-bs/">Forensic Chemistry, B.S.</a></h3>
@@ -190,7 +224,7 @@ session_start();
                             <hr class="mb-5"/>
                             <!-- Degree End -->
                             <!-- Degree Start -->
-                            <div class="row align-items-center mb-5 mt-3">
+                            <div class="row align-items-center mb-5 mt-3"id=9>
                                 <div class="col-lg-12 col-md-12">
                                     <div class="text-sub mt-5 mt-lg-0">
                                         <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/geology-bs/">Geology, B.S.</a></h3>
@@ -207,7 +241,7 @@ session_start();
                               <!-- Degree End -->
 
                               <!-- Degree Start -->
-                              <div class="row align-items-center mb-5 mt-3">
+                              <div class="row align-items-center mb-5 mt-3"id=10>
                                   <div class="col-lg-12 col-md-12">
                                       <div class="text-sub mt-5 mt-lg-0">
                                           <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/mathematics-bs/">Mathematics, B.S.</a></h3>
@@ -226,10 +260,10 @@ session_start();
                                 <!-- Degree End -->
 
                                 <!-- Degree Start -->
-                                <div class="row align-items-center mb-5 mt-3">
+                                <div class="row align-items-center mb-5 mt-3"id=11>
                                     <div class="col-lg-12 col-md-12">
                                         <div class="text-sub mt-5 mt-lg-0">
-                                            <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/natural-resources-and-recreation-management-bs/">Natural Resources and Recreation Management, B.S.</a></h3>
+                                            <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/natural-resources-and-recreation-management-bs/">Natural Resources<span class="mobile-br"></span> <br class="desktop-br"> and Recreation Management, B.S.</a></h3>
                                             <p class="mb-4 size-18">With increased attention on our climate, environment and natural resources, new and specialized programs of study are emerging to prepare students to successfully tackle challenges in our world, from local to global issues.</p>
                                             <p class="mb-4 size-18">Marshall University in Huntington, West Virginia, has taken a leadership role in launching an innovative bachelor’s degree program in Natural Resources and Recreation Management (NRRM). This specialized Bachelor of Science (BS) degree program addresses the importance of natural resources for current and future generations. Majors who choose this unique bachelor’s degree program will be ready for a career in an in-demand professional field.</p>
                                             <p class="mb-4 size-18">The bachelor’s degree in Recreation Management and Natural Resources provides students with comprehensive knowledge and a solid background associated with the planning, management and monitoring of natural and outdoor recreation resources.</p>
@@ -247,7 +281,7 @@ session_start();
                                   <!-- Degree End -->
 
                                   <!-- Degree Start -->
-                                  <div class="row align-items-center mb-5 mt-3">
+                                  <div class="row align-items-center mb-5 mt-3"id=12>
                                       <div class="col-lg-12 col-md-12">
                                           <div class="text-sub mt-5 mt-lg-0">
                                               <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/physics-bs/">Physics, B.S.</a></h3>
@@ -266,10 +300,10 @@ session_start();
                                     <!-- Degree End -->
 
                                     <!-- Degree Start -->
-                                    <div class="row align-items-center mb-5 mt-3">
+                                    <div class="row align-items-center mb-5 mt-3"id=13>
                                         <div class="col-lg-12 col-md-12">
                                             <div class="text-sub mt-5 mt-lg-0">
-                                                <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/specialty-agriculture-bs/">Specialty Agriculture, B.S.</a></h3>
+                                                <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/specialty-agriculture-bs/">Specialty Agriculture,<span class="mobile-br"></span> <br class="desktop-br"> B.S.</a></h3>
                                                 <p class="mb-4 size-18">Man’s interaction with the environment is the focus of the Department of Natural Resources and the Environment (NRE), which offers the Specialty Agriculture bachelor’s degree program. Majors focus on sustainable, high-yield agriculture with an emphasis in agribusiness and agritourism.</p>
                                                 <p class="mb-4 size-18">Programs within the NRE, which also include the Natural Resources and Recreation Management Program and Environmental Science, share core courses that introduce ecological concepts and foundational principles in sustainability and resource management. The NRE programs incorporate technology such as geographic information systems (GIS), remote sensing and discipline-specific instrumentation to ensure that students study the latest developments affecting Specialty Agriculture and related fields. Agriculture majors also can study laws and regulations relevant to aspects of the conservation, protection and management of natural resources. Specialty Agriculture majors also have opportunities for research and internships for solid experience that prepares them for the workforce or for advanced education.</p>
                                                 <p class="mb-4 size-18">Marshall University makes it possible for Specialty Agriculture program majors to also study topic areas where natural resources, entrepreneurship and sustainability intersect.</p>
@@ -281,7 +315,7 @@ session_start();
                                       <!-- Degree End -->
 
                                       <!-- Degree Start -->
-                                      <div class="row align-items-center mb-5 mt-3">
+                                      <div class="row align-items-center mb-5 mt-3"id=14>
                                           <div class="col-lg-12 col-md-12">
                                               <div class="text-sub mt-5 mt-lg-0">
                                                   <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/academics/programs/statistics-bs/">Statistics, B.S.</a></h3>

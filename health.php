@@ -20,11 +20,45 @@ session_start();
                   </div>
               </div>
           </div>
+          <div class="dropdown">
+            <button class="dropbtn">Dropdown Selection</button>
+            <div class="dropdown-content">
+              <a href="#1">Athletic Training</a>
+              <hr class="dropdown-divider">
+              <a href="#2">Biomechanics</a>
+              <hr class="dropdown-divider">
+              <a href="#3">Communication Disorders</a>
+              <hr class="dropdown-divider">
+              <a href="#4">Dietetics</a>
+              <hr class="dropdown-divider">
+              <a href="#5">Exercise Science</a>
+              <hr class="dropdown-divider">
+              <a href="#6">Health Sciences</a>
+              <hr class="dropdown-divider">
+              <a href="#7">Medical Imaging</a>
+              <hr class="dropdown-divider">
+              <a href="#8">Medical Laboratory Science</a>
+              <hr class="dropdown-divider">
+              <a href="#9">Medical Laboratory Technology</a>
+              <hr class="dropdown-divider">
+              <a href="#10">Nursing, A.S.N.</a>
+              <hr class="dropdown-divider">
+              <a href="#11">Nursing, B.S.N.</a>
+              <hr class="dropdown-divider">
+              <a href="#12">R.N. to B.S.N</a>
+              <hr class="dropdown-divider">
+              <a href="#13">Respiratory Care</a>
+              <hr class="dropdown-divider">
+              <a href="#14">Social Work</a>
+              <hr class="dropdown-divider">
+              <a href="#15">Sport Management</a>
+            </div>
+          </div>
           <!-- Degree Start -->
-          <div class="row align-items-center mb-5">
+          <div class="row align-items-center mb-5" id=1>
               <div class="col-lg-12 col-md-12">
                   <div class="text-sub mt-5 mt-lg-0">
-                      <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/athletic-training-bsms/">Athletic Training, B.S/M.S.</a></h3>
+                      <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/athletic-training-bsms/">Athletic Training<span class="mobile-br"></span> <br class="desktop-br">, B.S/M.S.</a></h3>
                           <p class="mb-4 size-18">Athletic trainers (ATs) are healthcare professionals who collaborate with physicians to provide preventive services, emergency care, clinical diagnosis, therapeutic intervention and rehabilitation of injuries and medical conditions. Athletic trainers are an integral part of healthcare in many clinical settings. The certified athletic trainer has the medical and physiological skills necessary to provide initial assessment and treatment of injury and the foresight to reduce the risk of their occurrence.</p>
                             <p class="mb-4 size-18">Marshall University in Huntington, West Virginia, offers a professional degree program that enables students to earn both a bachelor’s degree in Athletic Training and a master’s degree in AT through MU’s 3 + 2 plan. Students who already have a bachelor’s degree can just pursue the Master of Science in Athletic Training degree program.</p>
                               <p class="mb-4 size-18">The Professional Master of Science in Athletic Training Program (PMSATP) is fully accredited by the Commission on Accreditation of Athletic Training Education (CAATE).</p>
@@ -42,7 +76,7 @@ session_start();
             <!-- Degree End -->
 
             <!-- Degree Start -->
-            <div class="row align-items-center mb-5">
+            <div class="row align-items-center mb-5"id=2>
                 <div class="col-lg-12 col-md-12">
                     <div class="text-sub mt-5 mt-lg-0">
                         <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/biomechanics-bs/">Biomechanics, B.S.</a></h3>
@@ -63,10 +97,10 @@ session_start();
               <!-- Degree End -->
 
               <!-- Degree Start -->
-              <div class="row align-items-center mb-5">
+              <div class="row align-items-center mb-5"id=3>
                   <div class="col-lg-12 col-md-12">
                       <div class="text-sub mt-5 mt-lg-0">
-                          <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/communication-disorders-bs/">Communication Disorders, B.S.</a></h3>
+                          <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/communication-disorders-bs/">Communication<span class="mobile-br"></span> <br class="desktop-br"> Disorders, B.S.</a></h3>
                               <p class="mb-4 size-18">At Marshall University, we want to give everyone a voice. Our Communication Disorders undergraduate program located on our Huntington, West Virginia, campus prepares students to do just that.  </p>
                                 <p class="mb-4 size-18">As a speech therapy major at Marshall, you will learn the typical processes of speech, language, hearing and swallowing, while gaining a basic knowledge of speech language pathology and hearing disorders.</p>
                                   <p class="mb-4 size-18">Earning your bachelor’s degree in Communication Disorders is a common pathway for advanced graduate study in audiology or speech language pathology. Speech-language pathologists diagnose and treat individuals with articulation, language, voice, fluency, cognitive communication, social communication and swallowing disorders.  </p>
@@ -83,7 +117,7 @@ session_start();
                 <!-- Degree End -->
 
                   <!-- Degree Start -->
-                  <div class="row align-items-center mb-5">
+                  <div class="row align-items-center mb-5"id=4>
                       <div class="col-lg-12 col-md-12">
                           <div class="text-sub mt-5 mt-lg-0">
                               <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/dietetics-bs/">Dietetics, B.S.</a></h3>
@@ -101,7 +135,7 @@ session_start();
                     <!-- Degree End -->
 
                     <!-- Degree Start -->
-                    <div class="row align-items-center mb-5">
+                    <div class="row align-items-center mb-5"id=5>
                         <div class="col-lg-12 col-md-12">
                             <div class="text-sub mt-5 mt-lg-0">
                                 <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/exercise-science-bs/">Exercise Science, B.S.</a></h3>
@@ -123,7 +157,7 @@ session_start();
                       <!-- Degree End -->
 
                       <!-- Degree Start -->
-                      <div class="row align-items-center mb-5">
+                      <div class="row align-items-center mb-5"id=6>
                           <div class="col-lg-12 col-md-12">
                               <div class="text-sub mt-5 mt-lg-0">
                                   <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/health-sciences-bs/">Health Sciences, B.S.</a></h3>
@@ -142,7 +176,7 @@ session_start();
                         <!-- Degree End -->
 
                         <!-- Degree Start -->
-                        <div class="row align-items-center mb-5">
+                        <div class="row align-items-center mb-5"id=7>
                             <div class="col-lg-12 col-md-12">
                                 <div class="text-sub mt-5 mt-lg-0">
                                     <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.st-marys.org/careers-and-education/school-of-medical-imaging/">Medical Imaging, B.S.</a></h3>
@@ -158,10 +192,10 @@ session_start();
                           <!-- Degree End -->
 
                           <!-- Degree Start -->
-                          <div class="row align-items-center mb-5">
+                          <div class="row align-items-center mb-5"id=8>
                               <div class="col-lg-12 col-md-12">
                                   <div class="text-sub mt-5 mt-lg-0">
-                                      <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/medical-laboratory-science-bs/">Medical Laboratory Science, B.S.</a></h3>
+                                      <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/medical-laboratory-science-bs/">Medical Laboratory<span class="mobile-br"></span> <br class="desktop-br"> Science, B.S.</a></h3>
                                           <p class="mb-4 size-18">The Bachelor of Science in Medical Laboratory Science (MLS) degree program at Marshall Univesity in Huntington, West Virginia, is an online program that enables students who have already completed their A.A.S. in Medical Laboratory Technology to pursue a bachelor’s degree, often while working full-time in a clinical laboratory. Our online MLS program is fully accredited by the National Accrediting Agency for Clinical Laboratory Science (NAACLS).</p>
                                             <p class="mb-4 size-18">Medical laboratory scientists perform specialized tests in areas such as flow cytometry, blood bank analysis, serology, immunology, clinical chemistry, molecular diagnostics and parasitology. Most medical laboratory scientists are employed in hospital laboratories, physician’s offices, state and federal health agencies, and the armed forces. Upon successful completion, students are eligible for national American Society for Clinical Pathology (ASCP) Board of Certification. Our Bachelor of Science in Medical Laboratory Science graduates are also well prepared for graduate programs such as medicine, physical therapy and forensics.</p>
                                               <p class="mb-4 size-18">The Clinical Laboratory Sciences Department at Marshall provides continuing clinical medical education for the region. It is an ongoing mission of the department to implement innovative programs to meet the dynamic needs of the medical community.</p>
@@ -177,10 +211,10 @@ session_start();
                             <!-- Degree End -->
 
                             <!-- Degree Start -->
-                            <div class="row align-items-center mb-5">
+                            <div class="row align-items-center mb-5"id=9>
                                 <div class="col-lg-12 col-md-12">
                                     <div class="text-sub mt-5 mt-lg-0">
-                                        <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/medical-laboratory-technology-aas/">Medical Laboratory Technology, A.A.S.</a></h3>
+                                        <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/medical-laboratory-technology-aas/">Medical Laboratory <span class="mobile-br"></span> <br class="desktop-br">Technology, A.A.S.</a></h3>
                                             <p class="mb-4 size-18">The Associate of Applied Science (A.A.S.) in Medical Laboratory Technology degree program at Marshall University in Huntington, West Virginia, prepares students to perform routine diagnostic work conducted in clinical labs.</p>
                                               <p class="mb-4 size-18">Medical Laboratory Technicians (MLTs) are entry-level lab techs who use advanced technology to analyze blood and other body fluids useful in detecting and treating diseases. MLTs provide physicians and other medical professionals with 70% of the objective information used in making formal diagnoses. Medical laboratory technicians work in hospital laboratories, doctor’s offices and research settings.</p>
                                                 <p class="mb-4 size-18">Marshall University’s MLT program is fully accredited by the National Accrediting Agency for Clinical Laboratory Science (NAACLS). Our two-year program allows students to begin working in the field within 15 months.</p>
@@ -196,7 +230,7 @@ session_start();
                               <!-- Degree End -->
 
                               <!-- Degree Start -->
-                              <div class="row align-items-center mb-5">
+                              <div class="row align-items-center mb-5"id=10>
                                   <div class="col-lg-12 col-md-12">
                                       <div class="text-sub mt-5 mt-lg-0">
                                           <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.st-marys.org/careers-and-education/school-of-nursing/">Nursing, A.S.N.</a></h3>
@@ -210,7 +244,7 @@ session_start();
                                 <!-- Degree End -->
 
                                 <!-- Degree Start -->
-                                <div class="row align-items-center mb-5">
+                                <div class="row align-items-center mb-5"id=11>
                                     <div class="col-lg-12 col-md-12">
                                         <div class="text-sub mt-5 mt-lg-0">
                                             <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/nursing-bsn/">Nursing, B.S.N.</a></h3>
@@ -226,10 +260,10 @@ session_start();
                                   <!-- Degree End -->
 
                                   <!-- Degree Start -->
-                                  <div class="row align-items-center mb-5">
+                                  <div class="row align-items-center mb-5"id=12>
                                       <div class="col-lg-12 col-md-12">
                                           <div class="text-sub mt-5 mt-lg-0">
-                                              <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/rn-to-bsn-online-program/">R.N. to B.S.N Online Program</a></h3>
+                                              <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/rn-to-bsn-online-program/">R.N. to B.S.N<span class="mobile-br"></span> <br class="desktop-br"> Online Program</a></h3>
                                                   <p class="mb-4 size-18">Marshall University’s all-online R.N. to B.S.N. degree program enables nurses who have graduated from either a nationally accredited associate degree nursing program or a diploma nursing program to earn the Bachelor of Science in Nursing (B.S.N.). Whether you live and work in West Virginia, or around the country, you can take advantage of this 100 percent flexible, online degree program, which is accredited by the Accreditation Commission for Education in Nursing (ACEN).</p>
                                                     <p class="mb-4 size-18">Earning your B.S.N. will expand your capacity for critical thinking and clinical judgment. Our B.S.N. core curriculum provides general education across multiple disciplines including the fine arts, social sciences and humanities in an interactive, online environment. Through the accredited R.N. to B.S.N. curriculum you will better understand the integration of clinical knowledge, research and evidence-based practice.</p>
                                               <h4 class="header-colorize">Why Choose Marshall for the Online R.N. to B.S.N. Program?</h4>
@@ -243,7 +277,7 @@ session_start();
                                     <!-- Degree End -->
 
                                     <!-- Degree Start -->
-                                    <div class="row align-items-center mb-5">
+                                    <div class="row align-items-center mb-5"id=13>
                                         <div class="col-lg-12 col-md-12">
                                             <div class="text-sub mt-5 mt-lg-0">
                                                 <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.st-marys.org/careers-and-education/school-of-respiratory-care/">Respiratory Care, B.S.</a></h3>
@@ -257,7 +291,7 @@ session_start();
                                       <!-- Degree End -->
 
                                       <!-- Degree Start -->
-                                      <div class="row align-items-center mb-5">
+                                      <div class="row align-items-center mb-5"id=14>
                                           <div class="col-lg-12 col-md-12">
                                               <div class="text-sub mt-5 mt-lg-0">
                                                   <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/social-work-bsw/">Social Work, B.S.W.</a></h3>
@@ -276,7 +310,7 @@ session_start();
                                         <!-- Degree End -->
 
                                         <!-- Degree Start -->
-                                        <div class="row align-items-center mb-5">
+                                        <div class="row align-items-center mb-5"id=15>
                                             <div class="col-lg-12 col-md-12">
                                                 <div class="text-sub mt-5 mt-lg-0">
                                                     <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/sport-management-bs/">Sport Management, B.S.</a></h3>
