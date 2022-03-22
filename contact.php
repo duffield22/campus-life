@@ -68,6 +68,15 @@ session_start();
                             <div class="md-form py-3">
                                 <select id="department-selection" class="float-start" name="concerned_department">
                                     <option value="">Select an Organization</option>
+                                    <option disabled style="font-weight:bold;color:black">Colleges</option>
+                                    <option value="college1">College of Health Professions</option>
+                                    <option value="college2">College of Engineering and Computer Science</option>
+                                    <option value="college3">College of Education and Professional Development</option>
+                                    <option value="college4">College of Science</option>
+                                    <option value="college5">College of Liberal Arts</option>
+                                    <option value="college6">College of Business</option>
+                                    <option value="college7">College of Arts and Media</option>
+                                    <option disabled style="font-weight:bold;color:black">Clubs</option>
                                     <option value="club1">Anime and Manga</option>
                                     <option value="club2">Archery</option>
                                     <option value="club3">Marching Thunder</option>
@@ -78,6 +87,7 @@ session_start();
                                     <option value="club8">Rugby Football</option>
                                     <option value="club9">Esports Association</option>
                                     <option value="club10">Force of Thundering Will</option>
+                                    <option disabled style="font-weight:bold;color:black">Fraternity/Sorority</option>
                                     <option value="fraternity1">Fraternity1</option>
                                     <option value="fraternity1">Fraternity1</option>
                                     <option value="fraternity1">Fraternity1</option>
@@ -89,7 +99,7 @@ session_start();
                         </div>
                     </div>
                       <!--Grid row-->
-                      
+
                       <!--Grid column-->
                       <div class="form-group row justify-content-center">
                         <div class="col mt-2 mb-2">

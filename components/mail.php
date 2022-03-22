@@ -1,4 +1,5 @@
 <?php
+
 $name = $_POST['name'];
 $subject = $_POST['subject'];
 $email = $_POST['email'];
@@ -7,7 +8,7 @@ $message = $_POST['message'];
 
 $content="From: $name \nEmail: $email \nMessage: $message";
 if($concerned_department == "club1") {
-        $recipient = "duffield22@marshall.edu";
+        $recipient = "info@campuslifemu.com";
     }
     else if($concerned_department == "club2") {
         $recipient = "marketing@domain.com";

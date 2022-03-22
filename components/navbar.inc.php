@@ -93,6 +93,7 @@
                 <li><a class="dropdown-item" href="esports.php">Esports Association</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="forceofwill.php">Force of Thundering Will</a></li>
+                <li><hr class="dropdown-divider">More Coming Soon</li>
               </ul>
             </li>
           </ul>
