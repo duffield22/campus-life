@@ -21,7 +21,7 @@ session_start();
                   </div>
               </div>
           </div>
-          <div class="dropdown">
+          <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
             <div class="dropdown-content">
               <a href="#1">Biomedical Engineering</a>
@@ -56,6 +56,7 @@ session_start();
                       <h4 class="header-colorize">Why Study Biomedical Engineering at Marshall?</h4>
                       <p class="mb-4 size-18">Marshall University’s bachelor’s in Biomedical Engineering program allows you to explore several exciting areas where biology and engineering intersect, including biomechanics, biomaterials, bioimaging, bioinstrumentation, and device design and fabrication.</p>
                       <a href="https://www.marshall.edu/academics/programs/biomedical-engineering-bsbme/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                   </div>
               </div>
           </div>
@@ -77,6 +78,7 @@ session_start();
                           <h4>Career Support</h4>
                         <p class="mb-4 size-18">Student success is the top priority of Marshall’s Department of Civil Engineering and its experienced faculty members who use innovative and hands-on educational methods. Civil Engineering majors benefit from Marshall’s small class sizes and ready access to faculty when they have questions or need help.</p>
                         <a href="https://www.marshall.edu/academics/programs/civil-engineering-bsce/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                     </div>
                 </div>
             </div>
@@ -97,6 +99,7 @@ session_start();
                           <p class="mb-4 size-18">Marshall’s Computer and Information Security degree program will prepare you through learning based on practice and grounded in theory. To help you acquire broad knowledge to address real-world challenges, you are exposed to a range of disciplines outside your major, including ethics, natural sciences, social sciences, economics, political science, history and philosophy.</p>
                             <p class="mb-4 size-18">As part of a bachelor’s degree program consistent with the standards of the Accreditation Board for Engineering and Technology (ABET) Computing Accreditation Commission and that satisfies the core Knowledge Unit requirements of the National Security Agency’s National Centers of Academic Excellence in Cyber Defense, our Computer and Information Security majors build strong information technology skills to manage cyber risks and threats.</p>
                           <a href="https://www.marshall.edu/academics/programs/computer-and-information-security-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                       </div>
                   </div>
               </div>
@@ -115,6 +118,7 @@ session_start();
                             <p class="mb-4 size-18">At Marshall, Computer Science majors develop knowledge about various computing and IT fields and build both excellent technical skills and strong analytical skills, preparing them to be well-qualified for high-paying jobs and careers. Graduates of Marshall’s Computer Science bachelor’s degree program are ready to contribute to West Virginia’s economic development, advance its competitive edge globally and contribute to improvements in the quality of people’s lives.</p>
                             <p class="mb-4 size-18">Computer Science faculty in the College of Engineering and Computer Sciences (CECS), have strong academic and industry experience, and spend extra time with you in and out of the classroom to support their academic and personal growth. Faculty guide you to hone technical and research skills, as well as communication and leadership skills.</p>
                             <a href="https://www.marshall.edu/academics/programs/computer-science-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                         </div>
                     </div>
                 </div>
@@ -132,6 +136,7 @@ session_start();
                               <p class="mb-4 size-18">The technical knowledge in the electrical and computer engineering is constantly evolving and extensive, and so is the program of study for Marshall’s electrical engineering and computer engineering bachelor’s degree students. Marshall’s B.S.E.E. students gain extensive knowledge and hands-on experience in energy and power systems, control systems, communication systems, and computer engineering. We have experienced faculty members with various areas of expertise, such as Wireless Communications and Networks, Signal Processing, Machine Learning, Discrete Control, Embedded Systems, Microgrid Design and Renewable Energy.</p>
                               <p class="mb-4 size-18">Additionally, Marshall’s Weisberg Applied Engineering Complex on our Huntington, West Virginia, campus is equipped to give students hands-on laboratory experience for all areas of specialization.</p>
                               <a href="https://www.marshall.edu/academics/programs/electrical-and-computer-engineering-bsee/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                           </div>
                       </div>
                   </div>
@@ -156,6 +161,7 @@ session_start();
                                 <p class="mb-4 size-18">Marshall’s Engineering bachelor’s degree program is accredited by ABET, the standard-bearer for accreditation of Engineering programs in the United States and throughout the world. ABET accreditation also enables Civil Engineering majors to take the Fundamentals of Engineering (FE) exam during their senior year.</p>
                                 <p class="mb-4 size-18">The Bachelor of Science in Engineering program at Marshall was ranked #117 in Undergraduate Engineering Programs (at schools where doctorates are not offered), according to 2019 rankings by U.S. News & World Report. Marshall University is ranked #42 in Regional Universities South and classified as R2: Doctoral Universities – High Research Activity in the Carnegie Classification of Institutions of Higher Education.</p>
                                 <a href="https://www.marshall.edu/academics/programs/engineering-bse/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                             </div>
                         </div>
                     </div>
@@ -177,6 +183,7 @@ session_start();
                                   <h4>Accredited</h4>
                                   <p class="mb-4 size-18">The Mechanical Engineering bachelor’s degree program is accredited by the Accreditation Board for Engineering and Technology (ABET), confirming that the BSME program meets the quality standards of the Mechanical Engineering profession. At Marshall, class sizes and the faculty-to-student ratio for the Mechanical Engineering degree program are relatively small, ensuring that students receive personalized attention from their professors.</p>
                                   <a href="https://www.marshall.edu/academics/programs/mechanical-engineering-bsme/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                               </div>
                           </div>
                       </div>
@@ -194,12 +201,11 @@ session_start();
                                     <h4 class="header-colorize">Why Study Occupational Safety at Marshall?</h4>
                                     <p class="mb-4 size-18">Marshall University’s Applied Science and Technology Department is dedicated to preparing students in the Occupational Safety and Health degree program for successful careers in this dynamic field.</p>
                                     <a href="https://www.marshall.edu/academics/programs/occupational-safety-and-health-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                 </div>
                             </div>
                         </div>
-                          <hr class="mb-5"/>
                           <!-- Degree End -->
-
       </div>
   </section>
   <!-- About End -->

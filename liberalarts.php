@@ -22,7 +22,7 @@ session_start();
                   </div>
               </div>
           </div>
-          <div class="dropdown">
+          <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
             <div class="dropdown-content">
               <a href="#1">Anthropology</a>
@@ -80,6 +80,7 @@ session_start();
                       <p class="mb-4 size-18">Our affordable Anthropology degree program offers students from diverse backgrounds the opportunity to thoroughly and creatively explore the world and peoples around them. Anthropology classes stress the exchange of ideas and build strength in critical thinking, communication and intellectual exploration. </p>
                       <p class="mb-4 size-18">As a leading public research university, we ensure each of our Anthropology degree majors develops a solid foundation in the basic principles, theories and techniques of analysis within the discipline</p>
                       <a href="https://www.marshall.edu/academics/programs/anthropology-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                   </div>
               </div>
           </div>
@@ -99,6 +100,7 @@ session_start();
                         <p class="mb-4 size-18">The Communications Studies bachelor’s degree program offers excellent 300- and 400-level courses taught only by faculty holding PhDs. Class enrollments are capped at 24, enabling students to receive personalized attention.</p>
                         <p class="mb-4 size-18">Marshall students can choose from a variety of courses to complete either a major or a minor in Communication Studies.</p>
                         <a href="https://www.marshall.edu/academics/programs/communication-studies-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                     </div>
                 </div>
             </div>
@@ -125,6 +127,7 @@ session_start();
                           <h4>Flexible Format</h4>
                           <p class="mb-4 size-18">Creative Writing majors can complete their bachelor’s degree on a traditional, four-year schedule (fall and spring semesters only, full-time) on Marshall’s Huntington campus. Students who want to get into the workforce sooner (and minimize student loan debt) can choose the Accelerated Creative Writing degree program by taking classes in summers as well as in fall and spring semesters to complete the degree in three years.</p>
                           <a href="https://www.marshall.edu/academics/programs/creative-writing-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                       </div>
                   </div>
               </div>
@@ -146,6 +149,7 @@ session_start();
                             <p class="mb-4 size-18">The Division of Finance and Economics, housed in the Marshall’s College of Business, offers College of Liberal Arts students the option to earn the Bachelor of Arts (BA) degree in Economics.</p>
                             <p class="mb-4 size-18">In addition to fulfilling your liberal arts requirements for a BA degree, you’ll complete the coursework as an Economics major.</p>
                             <a href="https://www.marshall.edu/academics/programs/economics-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                         </div>
                     </div>
                 </div>
@@ -168,6 +172,7 @@ session_start();
                               <p class="mb-4 size-18">Marshall’s Department of English is a member of the Association of Departments of English (ADE), an arm of the Modern Language Association. It also belongs to the Association of Writers & Writing Programs (AWP), a national organization that includes more than 550 college and university creative writing programs.</p>
                               <p class="mb-4 size-18">Minors in English or Creative Writing or Professional Writing offer students in other majors an opportunity to pursue their passion for English studies and to document, for graduate schools and future employers, their advanced skills in writing and interpreting complex texts.</p>
                               <a href="https://www.marshall.edu/academics/programs/english-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                           </div>
                       </div>
                   </div>
@@ -191,6 +196,7 @@ session_start();
                                 <p class="mb-4 size-18">Marshall has an active French Club here on campus in Huntington, West Virginia, that gives students a chance to meet other French learners and exchange students from France.</p>
                                 <p class="mb-4 size-18">Marshall offers French 101 online to accommodate remote students.</p>
                                 <a href="https://www.marshall.edu/academics/programs/french-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                             </div>
                         </div>
                     </div>
@@ -207,6 +213,7 @@ session_start();
                                   <h4 class="header-colorize">Where can a Geography Degree take you?</h4>
                                   <p class="mb-4 size-18">The Geography Department offers high quality geography degree programs. A geography degree from Marshall provides life-long critical thinking, technical, and practical skills. Furthermore, the Geography Department contributes to the University’s general education mission to produce broadly educated citizens capable of living and working effectively in a global environment. As a result, graduates of our programs succeed as professionals in today’s competitive job market.</p>
                                   <a href="https://www.marshall.edu/geography/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                               </div>
                           </div>
                       </div>
@@ -224,6 +231,7 @@ session_start();
                                       <h4 class="header-colorize">Why Study History at Marshall?</h4>
                                       <p class="mb-4 size-18">History is one of the broadest disciplines in the academic world—spanning geographies, centuries and peoples. Marshall University exposes History majors to stimulating student interaction, an emphasis on analytical and critical thinking, communications skills, and chronological, cultural and geographic diversity. Our B.A. History students view the world through many different lenses.</p>
                                       <a href="https://www.marshall.edu/academics/programs/history-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                   </div>
                               </div>
                           </div>
@@ -241,6 +249,7 @@ session_start();
                                         <p class="mb-4 size-18">We are part of the only interdisciplinary degree program in the area, team-teaching with the departments of classics and religious studies, meaning we benefit from the insights of three disciplines in studying historical and cultural contexts. When you major in Humanities, we design a “contract” with you, which allows you to play a large role in selecting how your program studies will go during your time at Marshall, in West Virginia.</p>
                                         <p class="mb-4 size-18">Our faculty members are at the cutting edge of their various specialties, doing adventurous research, and being in contact with a variety of leading philosophers. This creates an exciting environment for you, and unusual opportunities to make contacts and enter graduate school. Our graduates have gone on to graduate study at nationally respected schools, in philosophy, English, Law, Divinity, and Art History.</p>
                                         <a href="https://www.marshall.edu/academics/programs/humanities-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                     </div>
                                 </div>
                             </div>
@@ -257,6 +266,7 @@ session_start();
                                           <p class="mb-4 size-18">Marshall University is accredited as an institution of higher learning by The Higher Learning Commission. Thanks to the interdisciplinary nature of the International Affairs program at Marshall University, our students gain a broad understanding of global issues through a variety of disciplinary lenses and have the freedom to concentrate in depth in a particular area of interest.</p>
                                           <p class="mb-4 size-18">Upon graduation, many of our students continue their education in law school or by entering a master’s degree or Ph.D. program. We also offer a minor in International Affairs.</p>
                                           <a href="https://www.marshall.edu/academics/programs/international-affairs-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                       </div>
                                   </div>
                               </div>
@@ -276,6 +286,7 @@ session_start();
                                             <p class="mb-4 size-18">Marshall’s Japan club, anime and manga club, sado (tea) club, aikido club, and kendo club hold events throughout the semester, and visiting guest speakers enable students to experience Japanese traditional performances such as koto music.</p>
                                             <p class="mb-4 size-18">With West Virginia being home to over 20 Japanese companies that rank amongst the top sources of foreign investment in our local economy, taking courses in Japanese can open doors both here and abroad. Japanese graduates leave the program as autonomous learners who think critically and work well with people from different backgrounds — skills valued by employers in any field. </p>
                                             <a href="https://www.marshall.edu/academics/programs/japanese-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                         </div>
                                     </div>
                                 </div>
@@ -296,6 +307,7 @@ session_start();
                                               <p class="mb-4 size-18">Latin majors benefit from small class sizes that ensure personalized faculty attention and create a sense of camaraderie with other students. Two student organizations are especially relevant for Latin majors to foster social and academic activities: Marshall University Classical Association and Eta Sigma Phi, which is a national honorary association for the strengthening of classical learning throughout the United States.</p>
                                               <p class="mb-4 size-18">Marshall students enjoy full campus life with many opportunities to play sports, or be part of the Student Government Association, the Campus Advisory Board, Greek Life, or many other cultural, political or religious organizations.</p>
                                               <a href="https://www.marshall.edu/academics/programs/latin-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                           </div>
                                       </div>
                                   </div>
@@ -316,6 +328,7 @@ session_start();
                                                 <p class="mb-4 size-18">The Marshall degree in Literary Studies is an academic discipline that develops fundamental tools for thinking, writing and communicating that will be needed in any career path in an ever-changing world. You’ll learn to examine and analyze, and be ready to expand on and augment ideas across all fields, not just literature. You’ll work with excellent professors in Marshall’s English Department who are dedicated to your development as an educated person who’s well-prepared for a successful life and career.</p>
                                                 <p class="mb-4 size-18">The English Department at Marshall also sponsors a number of events, publications and organizations to give majors in Literary Studies and in other bachelor’s degree programs additional opportunities to explore interests, build professional skills and be ready to move beyond the classroom and into the community.</p>
                                                 <a href="https://www.marshall.edu/academics/programs/literary-studies-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                             </div>
                                         </div>
                                     </div>
@@ -333,6 +346,7 @@ session_start();
                                                   <p class="mb-4 size-18">The makers of the AP and SAT exams, the College Board, contend that one of the most important subjects a college student can study is the U.S. Constitution. The Constitution shapes the context within which we all operate as citizens.</p>
                                                   <p class="mb-4 size-18">This is what you will study in Political Science at Marshall University. Our Political Science program helps students understand the way ideas, interests and institutions all intersect to influence our daily lives, whether in West Virginia or internationally. Then, the program gives students the tools to navigate within this system to be successful, whether one is employed in the public or private sector.</p>
                                                   <a href="https://www.marshall.edu/academics/programs/political-science-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                               </div>
                                           </div>
                                       </div>
@@ -350,6 +364,7 @@ session_start();
                                                     <p class="mb-4 size-18">The B.A. in Professional Writing degree program at Marshall University prepares students for a variety of writing careers using various media and digital tools. Working professional writers require a range of writing skills that cross all fields and disciplines. They must write with clarity, purpose and a solid understanding of their audience. This takes training, and it’s the goal of the Department of English at Marshall University to prepare students to meet every writing challenge with skill and confidence.</p>
                                                     <p class="mb-4 size-18">In the Professional Writing major, students learn that professional writers can specialize in technology, science, healthcare, journalism, fundraising, grant writing, copywriting and many other areas to build a career portfolio.</p>
                                                     <a href="https://www.marshall.edu/academics/programs/professional-writing-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -369,6 +384,7 @@ session_start();
                                                       <p class="mb-4 size-18">The Psychology program strives to create a supportive, family-like atmosphere in our undergraduate and graduate programs to encourage collaboration and support rather than competition. As a result, Marshall’s attrition rate is low and our licensure and employment rate is strong in West Virginia and beyond.</p>
                                                       <p class="mb-4 size-18">Marshall offers students robust graduate programs in Psychology. Marshall’s Doctor of Psychology (Psy.D.) program is accredited by the American Psychological Association; it provides more than half of the doctoral-level psychologists licensed in the state of West Virginia each year. The program has also been awarded a Health Resources and Services Administration (HRSA) Graduate Psychology Education Grant for the past five years. Master’s degree programs in Psychology at Marshall have also received the HRSA Behavioral Health Workforce Education and Training Grant. Undergraduate students who meet the necessary requirements can apply to Marshall’s accelerated master’s degree program in Psychology to begin taking up to 12 hours in graduate coursework in place of elective undergraduate courses.</p>
                                                       <a href="https://www.marshall.edu/academics/programs/psychology-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                   </div>
                                               </div>
                                           </div>
@@ -392,6 +408,7 @@ session_start();
                                                         <p class="mb-4 size-18">While allowing flexibility to accommodate students’ diverse interests, our curriculum ensures students are introduced to social theory, learn to employ the basic research methods of the discipline and take courses that provide a good orientation in the discipline—both in breadth and depth.</p>
                                                         <p class="mb-4 size-18">In addition to earning their B.A. in Sociology at Marshall, students also can choose to obtain their Sociology master’s degree.</p>
                                                         <a href="https://www.marshall.edu/academics/programs/sociology-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -410,6 +427,7 @@ session_start();
                                                           <p class="mb-4 size-18">Students earning a B.A. in Spanish, or a Spanish minor participate in a faculty-led study abroad program. The Summer Madrid Spanish Language and Culture Program allows students to earn six hours of academic credit in a month (June or July) or 12 hours of academic credit in two months (June and July). They study at the Centro de Estudios Hispánicos with the Universidad Antonio de Nebrija in Madrid, Spain.</p>
                                                           <p class="mb-4 size-18">The program offers courses in the Spanish language at the elementary, intermediate and advanced levels, as well as courses in composition, conversation, literature, history and art. The professors are native speakers of Spanish who hold advanced degrees and who are accredited by the Spanish Ministry of Education. While in Madrid, Marshall students reside with Spanish families.</p>
                                                           <a href="https://www.marshall.edu/academics/programs/spanish-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       </div>
                                                   </div>
                                               </div>
@@ -422,8 +440,7 @@ session_start();
                                                             <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/spc/">Pre-Law</a></h3>
                                                             <br />
                                                             <a href="https://www.marshall.edu/spc/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
-                                                              <hr class="mb-5"/>
-
+                                                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                         </div>
                                                     </div>
                                                 </div>

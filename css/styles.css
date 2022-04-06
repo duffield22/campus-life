@@ -171,7 +171,9 @@ a.nav-link:hover {
   color: #444444;
 }
 .bg-grey {
-  background-color: #F8F6FA !important;
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255/var(--tw-bg-opacity));
+  }
 }
 .title {
   color: #343a40;
@@ -422,6 +424,7 @@ h4 {
   font-size: 16px;
   border: none;
   margin-bottom:50px;
+
 }
 
 /* The container <div> - needed to position the dropdown content */

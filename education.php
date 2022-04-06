@@ -21,7 +21,7 @@ session_start();
                   </div>
               </div>
           </div>
-          <div class="dropdown">
+          <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
             <div class="dropdown-content">
               <a href="#1">Early Childhood Education</a>
@@ -50,6 +50,7 @@ session_start();
                       <p class="mb-4 size-18">Marshall students learn in small classes, and the program’s expert faculty get to know each student and form strong support relationships. This Marshall degree program prepares pre-service teachers to teach all children, regardless of ability, from birth to age five. Students gain experience with infant/toddlers, pre-kindergartners, preschoolers with special needs and administrators. Bachelor’s degree students typically complete the Early Childhood Education program in four years; the time to degree for part-time students depends on how many credit hours are taken per semester.</p>
                       <p class="mb-4 size-18">The successful candidate in the Early Childhood Education program will be able to be licensed to teach typically developing preschoolers as well as preschool children with special needs. The program offers a standalone degree as well as an add-on endorsement to an Elementary Education bachelor’s degree (Pre-K to Kindergarten).</p>
                       <a href="https://www.marshall.edu/academics/programs/early-childhood-education-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                   </div>
               </div>
           </div>
@@ -68,6 +69,7 @@ session_start();
                         <p class="mb-4 size-18">Marshall’s teacher education programs are fully accredited by the Council for the Accreditation of Educator Preparation (CAEP, formerly known as NCATE). This means you are assured that we have gone through a rigorous process that includes on-site reviews by a team of experts in the field of education.</p>
                         <p class="mb-4 size-18">Teachers are change agents and education can make a real difference in the lives of young people. Our Elementary Education degree program will provide broad content knowledge in the core academic areas in which you will be teaching, as well as the latest, state-of-the-art techniques in working with children.</p>
                         <a href="https://www.marshall.edu/academics/programs/elementary-education-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                     </div>
                 </div>
             </div>
@@ -89,13 +91,11 @@ session_start();
                           <p class="mb-4 size-18">We prepare teachers and other professional educators, including counselors, principals, supervisors and superintendents, and provide continuing education opportunities for professional educators. Our college also provides educational services for students and the community, which include the Autism Training Center, Child Development Academy, Early Education Center, Learning Resources Center, Testing Center, Center for Reading Excellence and the June C. Harless Center for Rural Educational Research and Development.</p>
                           <p class="mb-4 size-18">We provide top-quality education and services that meet the academic needs of future educators and other professional personnel.</p>
                           <a href="https://www.marshall.edu/academics/programs/secondary-education-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                       </div>
                   </div>
               </div>
-                <hr class="mb-5"/>
                 <!-- Degree End -->
-
-
       </div>
   </section>
   <!-- About End -->

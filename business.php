@@ -22,7 +22,7 @@ session_start();
                 </div>
             </div>
         </div>
-        <div class="dropdown">
+        <div class="dropdown" id="dd">
           <button class="dropbtn">Dropdown Selection</button>
           <div class="dropdown-content">
             <a href="#1">Accounting</a>
@@ -62,6 +62,7 @@ session_start();
                       <p class="mb-4 size-18">Our accredited Accounting bachelor’s program provides relevant information to decision-makers, managers, investors, creditors, labor unions, government regulators and others interested in the financial well-being and future of an entity’s economic activity. The B.B.A. in Accounting degree involves analyzing and recording financial transactions, summarizing financial data in financial statements and reports, and interpreting financial data for decision-making.</p>
                       <p class="mb-4 size-18">Accountants are in high demand to manage, review and interpret financial transactions. Accountants gain knowledge of the entire enterprise, which can lead to opportunities for advancement into other functional areas. Accountants must be able to communicate the numbers to organizational stakeholders and must stay abreast of technological advancements, making this career path valuable for individuals with mathematical skills as well as strong interpersonal skills. Our bachelor’s program in Accounting will prepare you for many career paths and specialties, including forensic accounting, managerial accounting and financial accounting.</p>
                       <a href="https://www.marshall.edu/academics/programs/accounting-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                   </div>
               </div>
           </div>
@@ -78,6 +79,7 @@ session_start();
                         <p class="mb-4 size-18">Economics is the study of choices that individuals, business and government entities make when allocating limited resources among alternative uses. For example, individuals must choose what goods or services to purchase with their limited incomes. Business firms must decide which goods to produce, how much to produce and what methods to use. Government bodies must choose which programs to implement and which taxes to levy.   </p>
                         <p class="mb-4 size-18">Economists develop theories to explain how components of an economy operate and interact with one another. They then gather statistical and empirical evidence to estimate the relationships among the various aspects of the economy. Using this data, economists predict how different economic entities will respond to changes in policies and external forces. These predictions, in turn, help guide private and public decision-makers to form appropriate policies. </p>
                         <a href="https://www.marshall.edu/academics/programs/economics-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                     </div>
                 </div>
             </div>
@@ -99,6 +101,7 @@ session_start();
                           <p class="mb-4 size-18">During spring 2019, our Entrepreneurship students competed in the inaugural West Virginia Innovation and Business Model Competition, with the two Marshall teams finishing first and second in the state finals event. They out-placed competitors from West Virginia University, University of Charleston, Concord University, Glenville State College and West Virginia Wesleyan College, and earned $5,000 (first place) and $3,000 (second place) prize awards as well as a trip to Silicon Valley. In addition, the first-place team advanced to the International Business Model Competition in Provo, Utah, and earned an additional $2,500 in prize money. For the 2019-20 academic year, Marshall University students will be eligible to compete in an innovation competition and a separate business model competition for similar prize awards.</p>
                           <p class="mb-4 size-18">With our close connection to entrepreneurship, Marshall University in 2015 hosted the Governor’s School for Entrepreneurship for high school students. Students and faculty in our Brad D. Smith Schools of Business strive to see entrepreneurship become the economic engine of West Virginia.</p>
                           <a href="https://www.marshall.edu/academics/programs/entrepreneurship-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                       </div>
                   </div>
               </div>
@@ -116,6 +119,7 @@ session_start();
                             <p class="mb-4 size-18">Our Finance bachelor’s degree prepares you to plan, manage and analyze the financial and monetary aspects and performance of business enterprises, banking institutions or other organizations. A bachelor’s degree in Finance typically includes instruction in principles of accounting, financial instruments, capital planning, funds acquisition, asset and debt management, budgeting, financial analysis and investments and portfolio management.</p>
                             <p class="mb-4 size-18">Though you’ll need to be good at mathematics, you also must be good and talking with people and making friendly conversation on a variety of subjects. Education, intelligence and personality are all taken into account for finance jobs. With any job in Finance, you must be diplomatic and consider your organization’s or client’s goals, resources and options when discussing their options for financial growth and well-being.</p>
                             <a href="https://www.marshall.edu/academics/programs/finance-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                         </div>
                     </div>
                 </div>
@@ -136,6 +140,7 @@ session_start();
                               <h4>Online Flexibility and Quality</h4>
                               <p class="mb-4 size-18">This bachelor’s in business degree is delivered 100% online. As a result, students can complete the entire business degree online without coming to campus and without have to meet at designated times to complete course lessons. This accredited online business degree program at Marshall is flexible and convenient.</p>
                               <a href="https://www.marshall.edu/academics/programs/general-business-ba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                           </div>
                       </div>
                   </div>
@@ -153,6 +158,7 @@ session_start();
                                 <h4 class="header-colorize">Why Study Health Care Management at Marshall?</h4>
                                 <p class="mb-4 size-18">The Brad D. Smith Undergraduate School of Business offers a Bachelor of Business Administration (BBA) degree in Health Care Management. Graduates with this degree are prepared to provide health care organizations with the necessary skills to manage the complexities of delivering health care in the dynamic health care environment.</p>
                                 <a href="https://www.marshall.edu/academics/programs/health-care-management-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                             </div>
                         </div>
                     </div>
@@ -170,6 +176,7 @@ session_start();
                                   <p class="mb-4 size-18">The Brad D. Smith Undergraduate School of Business offers a Bachelor of Business Administration (BBA) degree in International Business. This program was recently ranked #31 nationally among the top 50 schools by Study.com. The Lewis College of Business offers its own study abroad programs with trips that went to Ireland and Australia during 2019. It also has faculty from over 10 countries, giving students the opportunity to hear about real-life experiences abroad.</p>
                                   <p class="mb-4 size-18">Graduates of the program add value to many types of domestic and international organizations. </p>
                                   <a href="https://www.marshall.edu/academics/programs/international-business-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                               </div>
                           </div>
                       </div>
@@ -188,6 +195,7 @@ session_start();
                                     <p class="mb-4 size-18">The Brad D. Smith Undergraduate School of Business offers a Bachelor of Business Administration (BBA) degree in Management Information Systems. Graduates of the program add value to many types of organizations. They are prepared to meet the challenges of a technological business environment because they have mastered many professional skills in the Information Technology Fields.</p>
                                     <p class="mb-4 size-18">By choosing this degree major at Marshall, you will gain knowledge from faculty at a business school that, along with only 840+ business schools worldwide, has AACSB accreditation. Its small class sizes and over ten student organizations allow interactions that are not available at other high-quality schools. Further, the College offers a Professionalism certificate program and has Speaker Series events, where professionals recount their experiences about how they became successful.</p>
                                     <a href="https://www.marshall.edu/academics/programs/management-information-systems-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                 </div>
                             </div>
                         </div>
@@ -206,6 +214,7 @@ session_start();
                                       <p class="mb-4 size-18">The Brad D. Smith Undergraduate School of Business offers a Bachelor of Business Administration (BBA) degree in Management. Graduates of the program add value to many types of organizations. They are prepared to meet the challenges of a technological business environment because they have mastered many professional skills.</p>
                                       <p class="mb-4 size-18">We strive to develop all the skills that may be needed in today’s business world, by putting our students through real world situations, both in the classroom and in the community. The connections we help our students create range with local business leaders to CEO’s of global corporations.</p>
                                       <a href="https://www.marshall.edu/academics/programs/management-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                   </div>
                               </div>
                           </div>
@@ -223,6 +232,7 @@ session_start();
                                         <p class="mb-4 size-18">Marshall’s Bachelor of Business Administration (B.B.A.) in Marketing includes the process of planning and implementing the conception, pricing, promotion and delivery of the ideas, goods and services involved in exchanges between businesses and their customers. In addition to required marketing coursework, you have the opportunity to pursue one of the following emphases.</p>
                                         <p class="mb-4 size-18">Marketing classes in Marshall University’s Brad D. Smith Undergraduate School of Business involve experiential learning and internship opportunities. As a result of these experiences, graduates of Marshall’s Marketing program have gone on to work at companies such as Amazon and Intuit.</p>
                                         <a href="https://www.marshall.edu/academics/programs/marketing-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                     </div>
                                 </div>
                             </div>
@@ -244,10 +254,10 @@ session_start();
                                             <h4>Industry Recognition</h4>
                                             <p class="mb-4 size-18">Marshall’s Sustainability Management and Technology program is recognized by The American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) for educational opportunities with students. The ASHRAE Student Chapter at Marshall University is the only chapter worldwide that’s located within a College of Business.</p>
                                             <a href="https://www.marshall.edu/academics/programs/sustainability-management-and-technology-bba/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                         </div>
                                     </div>
                                 </div>
-                                  <hr class="mb-5"/>
                                   <!-- Degree End -->
 
       </div>

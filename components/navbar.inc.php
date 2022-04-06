@@ -61,37 +61,13 @@
                 </li>
               </ul>
 
-            <!-- Dropdown menu clubs-->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Clubs
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="anime.php">Anime and Manga</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="archery.php">Archery</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="thunder.php">Marching Thunder</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="climbing.php">Ascenders Climbing</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="fencing.php">Fencing</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="smash.php">Marshall Smashers</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="kings.php">King of Kings Chess</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="rugby.php">Rugby Football</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="esports.php">Esports Association</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="forceofwill.php">Force of Thundering Will</a></li>
-                <li><hr class="dropdown-divider">More Coming Soon</li>
-              </ul>
-            </li>
-          </ul>
-
-
+          <!-- menu Clubs -->
+          <li class="navbar-nav d-flex ms-auto">
+            <ul>
+              <li class="nav-item">
+                  <a class="nav-link" href="clubs.php"  role="button"  aria-expanded="false">Clubs</a></li>
+              </li>
+            </ul>
 
           <!-- menu FAQ -->
           <li class="navbar-nav d-flex ms-auto">

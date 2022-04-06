@@ -20,7 +20,7 @@ session_start();
                   </div>
               </div>
           </div>
-          <div class="dropdown">
+          <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
             <div class="dropdown-content">
               <a href="#1">Athletic Training</a>
@@ -69,6 +69,7 @@ session_start();
                       <p class="mb-4 size-18">Marshall University offers a variety of clinical settings, both traditional and non-traditional, as well as a unique curriculum that prepares students to take and pass the national BOC exam. Recent PMSATP graduates have gained employment in a wide range of settings, including high school, college and professional athletics; outpatient clinics; industrial rehabilitation sites; physician practices; the performing arts; the military and safety settings.</p>
                       <p class="mb-4 size-18">The Athletic Training program features its own designated classroom and labs. The PMSAT program also uses the Marshall University Sports Medicine Institute, and the University’s biomechanics and exercise science labs. Marshall’s state-of-the-art motion labs offer a wide range of technology to allow students to conduct research at the undergraduate and graduate level.</p>
                       <a href="https://www.marshall.edu/academics/programs/athletic-training-bsms/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                   </div>
               </div>
           </div>
@@ -90,6 +91,7 @@ session_start();
                         <p class="mb-4 size-18">This knowledge is useful in a wide array of situations. For example, biomechanists test an athlete’s ability to generate torque because weakness at a particular point may increase the risk of injury.</p>
                         <p class="mb-4 size-18">You will learn to identify modifications in technique or adjustments to training that can reduce the injury risk. Biomechanics students apply physics and mathematics to human body movement. Biomechanics majors are research-oriented and application-based, and our students become well-equipped in the study of ergonomics and human performance. </p>
                         <a href="https://www.marshall.edu/academics/programs/biomechanics-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                     </div>
                 </div>
             </div>
@@ -110,6 +112,7 @@ session_start();
                                   <p class="mb-4 size-18">Our pre-professional degree program has instructors with both clinical and academic experience. The Department of Communication Disorders has an open-door policy and a low instructor-to-student ratio, which encourage students to discuss course and clinical work one-on-one with highly specialized faculty.</p>
                                   <p class="mb-4 size-18">You also will be provided opportunities to observe a variety of clients on-site at the Marshall University Speech and Hearing Center and at the Luke Lee Listening, Language, and Learning Lab — West Virginia’s first preschool for deaf children who choose spoken language.</p>
                                   <a href="https://www.marshall.edu/academics/programs/communication-disorders-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                       </div>
                   </div>
               </div>
@@ -128,6 +131,7 @@ session_start();
                               <p class="mb-4 size-18">Our Dietetics degree program boasts state of the art classrooms and a teaching kitchen right in the heart of Huntington</p>
                               <p class="mb-4 size-18">We are one of two accredited undergraduate Dietetics programs in West Virginia</p>
                               <a href="https://www.marshall.edu/academics/programs/dietetics-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                           </div>
                       </div>
                   </div>
@@ -150,6 +154,7 @@ session_start();
                               <p class="mb-4 size-18">Marshall University is the first program in West Virginia to earn gold-level recognition from the American College of Sports Medicine (ACSM) for our program, Exercise is Medicine® on Campus (EIM-OC)/ This ACSM initiative calls upon universities and colleges to encourage faculty, staff and students to work together toward improving the health and well-being of the campus community.</p>
                               <p class="mb-4 size-18">Through classroom learning, research and actual hands-on experience in internships and well-equipped Marshall University lab facilities, the Exercise Science degree program produces exceptional graduates ready for the professional work environment. Marshall University graduates are also successful in pursuing premier certifications in the exercise field through the American College of Sports Medicine (ACSM) and National Strength and Conditioning Association (NSCA).</p>
                                 <a href="https://www.marshall.edu/academics/programs/exercise-science-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                             </div>
                         </div>
                     </div>
@@ -169,6 +174,7 @@ session_start();
                                   <p class="mb-4 size-18">Core Health Sciences courses use active learning techniques that are highly engaging. Core courses are designed to help you improve professional skills (such as creating resumes and working on interview skills) and build your health care knowledge (research methods and health administration). Courses also include the practice of techniques that will help you become a better health care professional.</p>
                                   <p class="mb-4 size-18">The program also welcomes students who are undecided or who wish to change their major once they’re studying at Marshall. Many students switch into Health Sciences from other majors such as Nursing, Exercise Science, Biology or Athletic Training.</p>
                                   <a href="https://www.marshall.edu/academics/programs/health-sciences-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                               </div>
                           </div>
                       </div>
@@ -185,6 +191,7 @@ session_start();
                                     <h4 class="header-colorize">Why Study Medical Imaging at Marshall?</h4>
                                     <p class="mb-4 size-18">Students who complete BS degree requirements through Marshall University will be granted a Bachelor of Science in Medical Imaging degree once the applicant has fulfilled all requirements from the School of Medical Imaging. The required courses are listed under the Admission hyperlink to the right. The School of Medical Imaging awards a certificate in radiography or sonography. </p>
                                     <a href="https://www.st-marys.org/careers-and-education/school-of-medical-imaging/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                 </div>
                             </div>
                         </div>
@@ -204,6 +211,7 @@ session_start();
                                       <p class="mb-4 size-18">Tuition rates for our online MLS program are very affordable compared to other programs across the country.</p>
                                       <p class="mb-4 size-18">Our fully accredited laboratory science program does not require you to do a full clinical rotation, but rather, advanced clinical tasks that can be managed and completed while working either part-time or full-time in a medical laboratory setting.</p>
                                       <a href="https://www.marshall.edu/academics/programs/medical-laboratory-science-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                   </div>
                               </div>
                           </div>
@@ -223,6 +231,7 @@ session_start();
                                         <p class="mb-4 size-18">The U.S. Department of Labor, Bureau of Labor and Statistics, predicts a 13% growth in clinical laboratory science professions between 2016 and 2026. The rapid expansion of the field of medicine, in combination with the present national shortage of laboratory professionals, ensures future employment and career security for those with degrees in medical laboratory technology.</p>
                                         <p class="mb-4 size-18">At Marshall, we offer students an affordable format for the fully-accredited Associate of Applied Science in Medical Laboratory Technology degree. Our students perform clinical rotations at area hositals in West Virginia, gaining hands-on experience that leads to local job opportunities for many.</p>
                                         <a href="https://www.marshall.edu/academics/programs/medical-laboratory-technology-aas/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                     </div>
                                 </div>
                             </div>
@@ -237,6 +246,7 @@ session_start();
                                               <p class="mb-4 size-18">The career goal of the Nursing Program at St. Mary's School of Nursing is to become a Registered Nurse (RN). The Cooperative ASN Program at the school is provided through a partnership of St. Mary's School of Nursing and Marshall University. The length of program is two academic years, and the degree awarded is Associate of Science in Nursing from Marshall University.</p>
                                                 <p class="mb-4 size-18">Two classes are admitted yearly, one in August and one in January. Applicants are selected on a competitive basis. Financial Aid is available through Marshall University.</p>
                                           <a href="https://www.st-marys.org/careers-and-education/school-of-nursing/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                       </div>
                                   </div>
                               </div>
@@ -253,6 +263,7 @@ session_start();
                                             <h4 class="header-colorize">Why Study Nursing at Marshall?</h4>
                                             <p class="mb-4 size-18">If you choose to major in nursing, you will have the opportunity to make a difference in the health status of those in your community. Fully accredited by the Accreditation Commission of Education in Nursing (ACEN), graduates of our undergraduate nursing program receive competitive salaries and benefits.</p>
                                             <a href="https://www.marshall.edu/academics/programs/nursing-bsn/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                         </div>
                                     </div>
                                 </div>
@@ -270,6 +281,7 @@ session_start();
                                               <p class="mb-4 size-18">The Institute of Medicine’s report “The Future of Nursing” recommends that health care organizations nationwide increase their B.S.N. nursing staff to 80 percent by the year 2020. Marshall is prepared to support registered nurses to achieve this goal, while broadening students’ knowledge to serve as leaders in advancing holistic, preventive health care.</p>
                                               <p class="mb-4 size-18">Marshall’s accredited R.N. to B.S.N. program is 100 percent online, which means you will not be required to be on campus or in our classrooms to complete your studies. Because the program is asynchronous and online, you can complete the work anytime, anywhere. Marshall also provides highly qualified faculty who will work with you. Our R.N. to B.S.N. program can be completed in two semesters of full-time study or three to four semesters on a part-time basis. Tuition is very affordable.</p>
                                               <a href="https://www.marshall.edu/academics/programs/rn-to-bsn-online-program/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                           </div>
                                       </div>
                                   </div>
@@ -284,6 +296,7 @@ session_start();
                                                     <p class="mb-4 size-18">The respiratory care program prepares students for the advanced level of practice to function as a licensed respiratory therapist.</p>
                                                       <p class="mb-4 size-18">As a member of an interdisciplinary healthcare team, respiratory therapists evaluate, treat and manage patients of all ages with respiratory illnesses and diseases.</p>
                                                 <a href="https://www.st-marys.org/careers-and-education/school-of-respiratory-care/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                             </div>
                                         </div>
                                     </div>
@@ -303,6 +316,7 @@ session_start();
                                                   <p class="mb-4 size-18">Social work is a profession grounded in the values of human rights and social justice. If you are someone who cares about the worth and dignity of people and the importance of human relationships, as well as integrity and competence, a B.S.W. degree from the accredited program at Marshall University is perfect for you.</p>
                                                   <p class="mb-4 size-18">A B.S.W. education prepares graduates for generalist practice, meaning you will be prepared to work with any population in any setting upon graduating from our B.S.W. program.</p>
                                                   <a href="https://www.marshall.edu/academics/programs/social-work-bsw/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                               </div>
                                           </div>
                                       </div>
@@ -323,10 +337,10 @@ session_start();
                                                     <p class="mb-4 size-18">In our Sport Management program, you’ll also gain firsthand experience by completing multiple semesters for fieldwork and internships in real sport business settings. This experience will help you gain not only valuable experience but also opportunities to network as you prepare to enter the workforce.</p>
                                                     <p class="mb-4 size-18">Our faculty in the Sport Management program is committed to teaching and research in the sport industry. We provide a balanced learning environment and ensure mentoring for each of our students. The Sport Management degree program at Marshall maintains a strong network of alumni who work in all levels of the sport industry: Our alumni can give you valuable access to a vast network of connections.</p>
                                                     <a href="https://www.marshall.edu/academics/programs/sport-management-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                 </div>
                                             </div>
                                         </div>
-                                          <hr class="mb-5"/>
                                           <!-- Degree End -->
       </div>
   </section>

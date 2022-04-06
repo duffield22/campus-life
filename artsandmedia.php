@@ -23,7 +23,7 @@ session_start();
               </div>
           </div>
 
-          <div class="dropdown">
+          <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
             <div class="dropdown-content">
               <a href="#1">Advertising and Public Relations</a>
@@ -65,6 +65,7 @@ session_start();
                       <p class="mb-4 size-18"></p>
                       <p class="mb-4 size-18"></p>
                       <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                   </div>
               </div>
           </div>
@@ -86,6 +87,7 @@ session_start();
                         <p class="mb-4 size-18"></p>
                         <p class="mb-4 size-18"></p>
                         <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                     </div>
                 </div>
             </div>
@@ -107,6 +109,7 @@ session_start();
                           <p class="mb-4 size-18"></p>
                           <p class="mb-4 size-18"></p>
                           <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                       </div>
                   </div>
               </div>
@@ -128,6 +131,7 @@ session_start();
                             <p class="mb-4 size-18"></p>
                             <p class="mb-4 size-18"></p>
                             <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                         </div>
                     </div>
                 </div>
@@ -149,6 +153,7 @@ session_start();
                               <p class="mb-4 size-18"></p>
                               <p class="mb-4 size-18"></p>
                               <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                           </div>
                       </div>
                   </div>
@@ -170,6 +175,7 @@ session_start();
                                 <p class="mb-4 size-18"></p>
                                 <p class="mb-4 size-18"></p>
                                 <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                             </div>
                         </div>
                     </div>
@@ -191,6 +197,7 @@ session_start();
                                   <p class="mb-4 size-18"></p>
                                   <p class="mb-4 size-18"></p>
                                   <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                               </div>
                           </div>
                       </div>
@@ -212,6 +219,7 @@ session_start();
                                     <p class="mb-4 size-18"></p>
                                     <p class="mb-4 size-18"></p>
                                     <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                 </div>
                             </div>
                         </div>
@@ -234,6 +242,7 @@ session_start();
                                       <p class="mb-4 size-18"></p>
                                       <p class="mb-4 size-18"></p>
                                       <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                   </div>
                               </div>
                           </div>
@@ -254,6 +263,7 @@ session_start();
                                         <p class="mb-4 size-18"></p>
                                         <p class="mb-4 size-18"></p>
                                         <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                     </div>
                                 </div>
                             </div>
@@ -274,12 +284,11 @@ session_start();
                                           <p class="mb-4 size-18"></p>
                                           <p class="mb-4 size-18"></p>
                                           <a href="" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                       </div>
                                   </div>
                               </div>
-                                <hr class="mb-5"/>
                                 <!-- Degree End -->
-
       </div>
   </section>
   <!-- About End -->

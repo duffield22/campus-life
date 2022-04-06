@@ -6,11 +6,11 @@ session_start();
 <?php include('components/navbar.inc.php'); ?>
 <div class="container">
     <!--Section: Contact v.2-->
-    <section class="section">
+    <section class="section bg-grey">
         <div class="row justify-content-center">
       <div class=" col-lg-6 bg-light rounded mt-2 mb-2">
         <!--Section heading-->
-        <h2 class="text-center section-heading h1 pt-4">Contact an Organization</h2>
+        <h2 class="text-center section-heading h1 pt-4 ">Contact an Organization</h2>
         <div class="row">
             <!--Grid column-->
             <div class="text-center col">

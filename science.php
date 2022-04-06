@@ -20,7 +20,7 @@ session_start();
                   </div>
               </div>
           </div>
-          <div class="dropdown">
+          <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
             <div class="dropdown-content">
               <a href="#1">Biochemistry</a>
@@ -69,6 +69,7 @@ session_start();
                                             major in Biochemistry, students also can earn bachelor’s degrees in the following four areas: Chemical Sciences; Chemistry, ACS Certified; Forensic Chemistry; and Environmental Chemistry.</p>
                       <p class="mb-4 size-18">Marshall’s Department of Chemistry is approved by the American Chemical Society (ACS). Marshall has been recertified by ACS through 2026. The department has been continuously certified since 1963.</p>
                       <a href="https://www.marshall.edu/academics/programs/biochemistry-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                   </div>
               </div>
           </div>
@@ -88,6 +89,7 @@ session_start();
                           <p class="mb-4 size-18">Faculty are willing and prepared to welcome undergraduate students into their labs to begin their training as fully functioning research team members as early as your freshman year. It is common for some faculty to ask their undergraduate research students to present data at national and international meetings. Some students are also included as co-authors on peer-reviewed scientific papers, which are published in some of the leading scientific journals in the world. These real-life research opportunities rarely happen at other universities until students are much more advanced in their academic careers.</p>
                           <p class="mb-4 size-18">Students in the Biological Sciences program at Marshall are submersed in a diverse classroom setting, ranging from larger lecture environments to small-group discussions and intensive laboratory-oriented courses. Many of the teaching labs are outfitted with state-of-the-art equipment, which gives you the opportunity to learn on the same type of apparatuses you would use in research laboratories.</p>
                           <a href="https://www.marshall.edu/academics/programs/biological-sciences-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                       </div>
                   </div>
               </div>
@@ -107,6 +109,7 @@ session_start();
                             <p class="mb-4 size-18">In our award-winning, accredited chemistry degree program, undergraduate students are offered many opportunities to familiarize themselves with a wide range of state-of-the-art instrumentation, work on cutting-edge, cross-disciplinary projects and participate in professional conferences. Thanks to our chemistry department’s small size, Chemical Sciences majors have the opportunity to work directly with faculty mentors on a daily basis in the lab. You are also compelled to interact with faculty outside their immediate research area, which provides exciting opportunities to broaden your experience. </p>
                             <p class="mb-4 size-18">All faculty in our accredited Department of Chemistry hold Ph.D. degrees and pursue their own research interests. Marshall University in West Virginia is the only place for students who want to do research in an accredited program in the specific areas offered. Our chemistry department also uses several instruments for compound characterization that match those of R-1 institutions.</p>
                             <a href="https://www.marshall.edu/academics/programs/chemical-sciences-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                         </div>
                     </div>
                 </div>
@@ -128,6 +131,7 @@ session_start();
                               <p class="mb-4 size-18">The Department of Chemistry is approved by the American Chemical Society (ACS) and has been continuously certified since 1963. This means our curriculum meets ACS standards and is recommended for students who want to enter the chemical profession or pursue graduate work in Chemistry.</p>
                               <p class="mb-4 size-18">Students who successfully complete the requirements for the B.S. in Chemistry degree will receive a certificate from the ACS indicating their degree meets the standards of the Committee on Professional Training. If you take Chemistry 423 (Environmental Analytical Chemistry) and Geology 425 (Geochemistry) as electives in the bachelor’s degree in Chemistry program, ACS certification will reflect this as certification for a B.S. in Environmental Chemistry.</p>
                               <a href="https://www.marshall.edu/academics/programs/chemistry-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                           </div>
                       </div>
                   </div>
@@ -152,6 +156,7 @@ session_start();
                                   <h4>Computer and Web Application Development Area of Emphasis</h4>
                                   <p class="mb-4 size-18">This area of emphasis allows students to specialize in developing Web applications and content using web-based development languages, such as HTML5, PHP, .Net, CSS, JavaScript, and the effective design and organization of databases, including the development of fully functional web application systems.  We have added courses in mobile application development as well which will teach students how to build apps for Android and iOS while integrating those apps with web apps.</p>
                                 <a href="https://www.marshall.edu/academics/programs/computer-and-information-technology-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                             </div>
                         </div>
                     </div>
@@ -171,6 +176,7 @@ session_start();
                                   <p class="mb-4 size-18">This bachelor’s degree program includes lab exercises that focus on building computer forensics and cybersecurity skills that Cyber Forensics and Security students put to work in realistic projects where they apply what they have learned. Lab experiences in our classes are either developed and delivered in-house or through National CyberWatch, which provides a virtualized lab environment and a wide variety of pre-built lab exercises.</p>
                                   <p class="mb-4 size-18">Cyber Forensics and Security majors can test for a digital forensics certificate from the AccessData and Cellebrite forensic tools.</p>
                                   <a href="https://www.marshall.edu/academics/programs/cyber-forensics-and-security-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                               </div>
                           </div>
                       </div>
@@ -195,6 +201,7 @@ session_start();
                                     <p class="mb-4 size-18">Focus on experience. Majors in Environmental Chemistry and other specialized chemistry programs must complete a research project or internship as a requirement to graduate with a bachelor’s degree. This also provides students with the opportunity to learn with Marshall chemistry faculty to do research or to get industry experience working with employers.</p>
                                     <p class="mb-4 size-18">A hallmark of the Marshall Chemistry Department is the opportunity to learn in small classes that provide personalized attention from professors and regular interaction with classmates. Environmental Chemistry majors also get a head start on lab work by becoming part of a small research group as early as their first semester at Marshall. Through research, majors in the Environmental Chemistry degree program apply their innate creativity while strengthening their laboratory skills and problem-solving abilities. This experience is not only valuable academically but also provides students with training for lifelong success.</p>
                                     <a href="https://www.marshall.edu/academics/programs/environmental-chemistry-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                 </div>
                             </div>
                         </div>
@@ -218,6 +225,7 @@ session_start();
                                       <p class="mb-4 size-18">Helping students prepare for a professional career in other fields, including medicine, dentistry, pharmacy, medical technology, engineering, nursing and more.</p>
                                       <p class="mb-4 size-18">Marshall’s Department of Chemistry is approved by the American Chemical Society (ACS). Marshall has been recertified by ACS through 2026. The department has been continuously certified since 1963.</p>
                                       <a href="https://www.marshall.edu/academics/programs/forensic-chemistry-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                      <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                   </div>
                               </div>
                           </div>
@@ -234,6 +242,7 @@ session_start();
                                         <h4 class="header-colorize">Why study Geology at Marshall University?</h4>
                                         <p class="mb-4 size-18">Geology majors benefit from a wealth of opportunity starting with Marshall University’s location in southern West Virginia. This area enables Marshall students to take advantage of field-based studies in Environmental Geoscience and Engineering Geology, and learn firsthand about energy resources. West Virginia is currently the 2nd largest producer of coal; 4th largest producer of energy in the United States; and 8th largest producer of natural gas. The Geology program offers an average of three field trips each semester that are either day-long or overnight to see and study local and regional geology in West Virginia and nearby states.</p>
                                         <a href="https://www.marshall.edu/academics/programs/geology-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                        <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                     </div>
                                 </div>
                             </div>
@@ -253,6 +262,7 @@ session_start();
                                           <p class="mb-4 size-18"></p>
                                           <p class="mb-4 size-18"></p>
                                           <a href="https://www.marshall.edu/academics/programs/mathematics-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                          <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                       </div>
                                   </div>
                               </div>
@@ -274,6 +284,7 @@ session_start();
                                             <p class="mb-4 size-18">Since 2010, the Natural Resource and Recreation Management degree program has been part of Marshall’s College of Science. NRRM faculty members continue to review and revise the curriculum to ensure that learning is attuned to new and emerging concerns, management and engagement for and with our natural and outdoor recreation resources. In addition to incorporating a geospatial technology component, the NRRM bachelor’s degree curriculum also emphasizes the human dimensions of natural resource management.</p>
                                             <p class="mb-4 size-18">For students interested in Natural Resources and Recreation Management, the bachelor’s degree program offers more than the traditional curriculum and hands-on learning experiences. Majors also take advantage of service-learning experiences, critical thinking courses and writing intensive courses to broaden the academic experience.</p>
                                             <a href="https://www.marshall.edu/academics/programs/natural-resources-and-recreation-management-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                            <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                         </div>
                                     </div>
                                 </div>
@@ -293,6 +304,7 @@ session_start();
                                               <p class="mb-4 size-18"></p>
                                               <p class="mb-4 size-18"></p>
                                               <a href="https://www.marshall.edu/academics/programs/physics-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                              <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                           </div>
                                       </div>
                                   </div>
@@ -308,6 +320,7 @@ session_start();
                                                 <p class="mb-4 size-18">Programs within the NRE, which also include the Natural Resources and Recreation Management Program and Environmental Science, share core courses that introduce ecological concepts and foundational principles in sustainability and resource management. The NRE programs incorporate technology such as geographic information systems (GIS), remote sensing and discipline-specific instrumentation to ensure that students study the latest developments affecting Specialty Agriculture and related fields. Agriculture majors also can study laws and regulations relevant to aspects of the conservation, protection and management of natural resources. Specialty Agriculture majors also have opportunities for research and internships for solid experience that prepares them for the workforce or for advanced education.</p>
                                                 <p class="mb-4 size-18">Marshall University makes it possible for Specialty Agriculture program majors to also study topic areas where natural resources, entrepreneurship and sustainability intersect.</p>
                                                 <a href="https://www.marshall.edu/academics/programs/specialty-agriculture-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                             </div>
                                         </div>
                                     </div>
@@ -327,6 +340,7 @@ session_start();
                                                   <p class="mb-4 size-18">Our B.S. program in Statistics has a strong background in Mathematics, with diverse and well-structured courses in Statistics that also prepare you for advanced degrees in mathematical and statistical sciences.</p>
                                                   <p class="mb-4 size-18">Our Department of Mathematics has award-winning faculty who continue to make significant contributions in the fields of mathematics and statistics. Average class sizes are small, providing a closer interaction between faculty and students. Students also can be involved in faculty research projects and are mentored by research faculty in their capstone projects. Travel funds are available for you to attend and present your research work at local, regional and selected national conferences.</p>
                                                   <a href="https://www.marshall.edu/academics/programs/statistics-bs/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                  <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                               </div>
                                           </div>
                                       </div>
@@ -340,38 +354,47 @@ session_start();
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/chiropractic/">Pre-Chiropractic</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/chiropractic/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/dentistry/">Pre-Dentistry</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/dentistry/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/medicine/">Pre-Medicine</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/medicine/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/optometry/">Pre-Optometry</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/optometry/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/pharmacy/">Pre-Pharmacy</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/pharmacy/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/physical-therapy/">Pre-Physical Therapy</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/physical-therapy/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/physician-assistant/">Pre-Physicians Assistant</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/physician-assistant/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/podiatry/">Pre-Podiatry</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/podiatry/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                       <hr class="mb-5"/>
                                                     <h3 class="highlight header-colorize text-uppercase mb-4 mt-3"><a href="https://www.marshall.edu/cos/preprof/professions/veterinary/">Pre-Veterinary Medicine</a></h3>
                                                     <br />
                                                     <a href="https://www.marshall.edu/cos/preprof/professions/veterinary/" class="learn-more size-15">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                                                    <a class="float-end mt-4" href="#dd">Back To Dropdown Selection</a>
                                                 </div>
                                             </div>
                                         </div>
