@@ -53,20 +53,13 @@
             </li>
 
             <!-- Dropdown menu Fraternities -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Greek Life
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><hr class="dropdown-divider">Fraternities</li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Coming Soon</a></li>
-                <li><hr class="dropdown-divider">Sororities</li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Coming Soon</a></li>
+            <!-- menu FAQ -->
+            <li class="navbar-nav d-flex ms-auto">
+              <ul>
+                <li class="nav-item">
+                    <a class="nav-link" href="greeklife.php"  role="button"  aria-expanded="false">Greek Life</a></li>
+                </li>
               </ul>
-            </li>
-
 
             <!-- Dropdown menu clubs-->
             <li class="nav-item dropdown">

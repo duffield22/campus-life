@@ -87,13 +87,34 @@ session_start();
                                     <option value="club8">Rugby Football</option>
                                     <option value="club9">Esports Association</option>
                                     <option value="club10">Force of Thundering Will</option>
-                                    <option disabled style="font-weight:bold;color:black">Fraternity/Sorority</option>
-                                    <option value="fraternity1">Fraternity1</option>
-                                    <option value="fraternity1">Fraternity1</option>
-                                    <option value="fraternity1">Fraternity1</option>
-                                    <option value="fraternity1">Sorority1</option>
-                                    <option value="fraternity1">Sorority2</option>
-                                    <option value="fraternity1">Sorority3</option>
+                                    <option disabled style="font-weight:bold;color:black">Interfraternity Recruitment</option>
+                                    <option value="fraternity1">Alpha Sigma Phi</option>
+                                    <option value="fraternity2">Alpha Tau Omega</option>
+                                    <option value="fraternity3">Kappa Alpha Order</option>
+                                    <option value="fraternity4">Kappa Sigma</option>
+                                    <option value="fraternity5">Sigma Alpha Epsilon</option>
+                                    <option value="fraternity6">Sigma Phi Epsilon</option>
+                                    <option value="fraternity7">Sigma Tau Gamma</option>
+                                    <option disabled style="font-weight:bold;color:black">Panhellinic Sorority Recruitment</option>
+                                    <option value="sorority1">Alpha Chi Omega</option>
+                                    <option value="sorority2">Alpha Xi Delta</option>
+                                    <option value="sorority3">Delta Zeta</option>
+                                    <option value="sorority4">Sigma Sigma Sigma</option>
+                                    <option disabled style="font-weight:bold;color:black">National Panhellinic Council</option>
+                                    <option value="panhellinic1">Alpha Phi Alpha Fraternity Inc.</option>
+                                    <option value="panhellinic2">Alpha Kappa Alpha Sorority Inc.</option>
+                                    <option value="panhellinic3">Kappa Alpha Psi Fraternity, Inc.</option>
+                                    <option value="panhellinic4">Omega Psi Phi Fraternity Inc.</option>
+                                    <option value="panhellinic5">Delta Sigma Theta Sorority Inc.</option>
+                                    <option disabled style="font-weight:bold;color:black">Other University Offices</option>
+                                    <option value="undergradadmissions">Undergraduate Admissions</option>
+                                    <option value="gradadmissions">Graduate Admissions</option>
+                                    <option value="bursars">Bursar’s Office</option>
+                                    <option value="aid">Financial Aid</option>
+                                    <option value="hrlife">Housing & Residence Life</option>
+                                    <option value="registrar">Registrar</option>
+                                    <option value="saffairs">Student Affairs</option>
+
                                 </select>
                             </div>
                         </div>
