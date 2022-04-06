@@ -15,19 +15,23 @@ session_start();
         <h1 class="big-heading">CAMPUS</br> LIFE.</h1>
       </div>
     </div>
-    <div class="row content">
+
+
+    <div class="row content mb-5">
       <div class="col">
         <h2 class="small-heading">Join a Marshall Organization!<br /> A welcoming community. <br /> A tradition of success.</h2>
-        
+
       </div>
     </div>
-      <!-- Register button no longer using
+
+
     <div class="row content">
       <div class="col">
-        <a href="register.php" class="login btn btn-lg btn-light col-lg-3 col-md-3">Register</a>
+        <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-lg btn-light col-lg-3 col-md-3">Apply Now</a>
+        <a href="http://apply-new.marshall.edu/register/info-request/" class="info btn btn-lg btn-dark col-lg-3 col-md-3">Request Info</a>
       </div>
-    </div> -->
-
+    </div>
   </div>
   </section>
+
 <?php require('components/footer.inc.php'); ?>

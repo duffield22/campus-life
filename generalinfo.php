@@ -55,20 +55,28 @@ session_start();
                       </div>
                   </div>
               </div>
-          </div>
-      </div>
-  </section>
-  <!-- Apply a request info buttons -->
-  <div class="col-lg-10 offset-lg-1">
-  <div class="text-sub mt-5">
-    <h3 class="mt-5 mb-5 highlight header-colorize text-uppercase">Ready To Apply?</h3>
-    <div class="row content">
-      <div class="col">
-        <a href="http://www.marshall.edu/admissions/apply/" class="login btn btn-lg btn-light col-lg-3 col-md-3">APPLY NOW</a>
-        <a href="http://apply-new.marshall.edu/register/info-request/" class="login btn btn-lg btn-light col-lg-3 col-md-3">REQUEST INFO</a>
-      </div>
-    </div>
-      </div>
-  </div>
 
+
+                <!-- Apply a request info buttons -->
+                <div class="col-lg-10 offset-lg-1">
+                <div class="text-sub mt-5">
+                  <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase">Ready To Apply?</h3>
+                  <div class="row content">
+                    <div class="col">
+                      <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-lg btn-light col-lg-3 col-md-3">Apply Now</a>
+                      <a href="http://apply-new.marshall.edu/register/info-request/" class="apply btn btn-lg btn-dark col-lg-3 col-md-3">Request Info</a>
+                    </div>
+                  </div>
+                    </div>
+                </div>
+              </div>
+              <div class="container-video container-fluid">
+                <div class="col-lg-12">
+              <h3 class="header-colorize text-uppercase mt-5">Marshall University Experience</h3>
+              <div class="video-container">
+                <iframe class="video" src="https://www.youtube.com/embed/3XHAF9f-zTg?autoplay=1&mute=1" allowfullscreen></iframe>
+              </div>
+            </div>
+              </div>
+  </section>
 <?php require('components/footer.inc.php'); ?>

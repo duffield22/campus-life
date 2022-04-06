@@ -5,7 +5,7 @@
 
       <form id="cmt" class="p-2" action="<?php echo $_SERVER['PHP_SELF']; ?>#cmt" method="POST">
         <input type="hidden" name="id" value="<?= $u_id; ?>">
-        <div class="form-group p-2">
+        <div class="form-group p-2 mt-3">
           <h3 class="header-colorize">Have a question not answered here?</h3>
           <h4>Leave a comment below.</h4>
           <input type="text" name="name" class="form-control" placeholder="Enter your name" required value="<?= $u_name; ?>">

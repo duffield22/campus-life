@@ -54,7 +54,7 @@
 
             <!-- Dropdown menu Fraternities -->
             <!-- menu FAQ -->
-            <li class="navbar-nav d-flex ms-auto">
+            <li class="navbar-nav d-flex">
               <ul>
                 <li class="nav-item">
                     <a class="nav-link" href="greeklife.php"  role="button"  aria-expanded="false">Greek Life</a></li>
@@ -62,7 +62,7 @@
               </ul>
 
           <!-- menu Clubs -->
-          <li class="navbar-nav d-flex ms-auto">
+          <li class="navbar-nav d-flex">
             <ul>
               <li class="nav-item">
                   <a class="nav-link" href="clubs.php"  role="button"  aria-expanded="false">Clubs</a></li>
@@ -70,7 +70,7 @@
             </ul>
 
           <!-- menu FAQ -->
-          <li class="navbar-nav d-flex ms-auto">
+          <li class="navbar-nav d-flex">
             <ul>
               <li class="nav-item">
                   <a class="nav-link" href="faq.php"  role="button"  aria-expanded="false">FAQ</a></li>
@@ -80,7 +80,7 @@
 
 
                       <!-- menu Contact -->
-              <li class="navbar-nav d-flex ms-auto">
+              <li class="navbar-nav d-flex">
                 <ul>
                   <li class="nav-item">
                       <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>
