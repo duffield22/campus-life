@@ -30,8 +30,6 @@ session_start();
                       <a class="btn float-end" href="https://www.facebook.com/MarshallUClimb/" role="button"><i class="fa fa-facebook"></i></a>
                       <a class="btn float-end" href="https://twitter.com/marshalluclimb" role="button"><i class="fa fa-twitter"></i></a>
                       <a class="btn float-end" href="https://www.instagram.com/accounts/login/?next=/marshalluclimb/" role="button"><i class="fa fa-instagram"></i></a>
-
-
                   </div>
               </div>
           </div>
