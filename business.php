@@ -15,7 +15,7 @@ session_start();
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-8">
                 <div class="text-center mb-5">
-                    <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of<span class="mobile-br"></span> <br class="desktop-br">Business</h2>
+                    <h1 class="highlight header-colorize text-uppercase mb-3 mt-3">College of<span class="mobile-br"></span> <br class="desktop-br">Business</h1>
                     <h3 class="highlight header-colorize text-uppercase mb-3 mt-3">Undergraduate<span class="mobile-br"></span> <br class="desktop-br">Programs</h3>
 
                     <p class="text-sub size-16">The college of Business at Marshall University has 11 undergraduate programs. Select one below to learn more.</p>
@@ -52,7 +52,7 @@ session_start();
           <!-- Degree Start -->
           <div class="row align-items-center mb-5"id=1>
               <div class="col-lg-12 col-md-12">
-                  <div class="text-sub mt-5 mt-lg-0">
+                  <div class="text-sub mt-5">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/accounting-bba/">Accounting, B.B.A.</a></h3>
                           <p class="mb-4 size-18">Located in Huntington, West Virginia, Marshall University’s Brad D. Smith Undergraduate School of Business offers a Bachelor of Business Administration (B.B.A.) degree in Accounting. The mission of our Accounting bachelor’s program is to provide you the core knowledge and skills necessary to successfully enter the profession of accountancy, business and / or graduate study.</p>
                             <p class="mb-4 size-18">Marshall University is one of only 190 schools worldwide to have achieved accreditation by AACSB International – the Association to Advance Collegiate Schools of Business – for its undergraduate majors and graduate programs in business and accounting.</p>

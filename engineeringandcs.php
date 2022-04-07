@@ -14,7 +14,7 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of<br /> Engineering<br /> and Computer Science</h2>
+                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of<br /> Engineering and<br /> Computer Science</h2>
                       <h3 class="highlight header-colorize text-uppercase mb-3 mt-3">Undergraduate<span class="mobile-br"></span> <br class="desktop-br">Programs</h3>
 
                       <p class="text-sub size-16">The college of Engineering and Computer Science at Marshall University has 8 undergraduate programs. Select one below to learn more.</p>
@@ -46,7 +46,7 @@ session_start();
           <!-- Degree Start -->
           <div class="row align-items-center mb-5" id=1>
               <div class="col-lg-12 col-md-12">
-                  <div class="text-sub mt-5 mt-lg-0">
+                  <div class="text-sub mt-5">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/biomedical-engineering-bsbme/">Biomedical<span class="mobile-br"></span> <br class="desktop-br"> Engineering, B.S.B.M.E.</a></h3>
                           <p class="mb-4 size-18">Biomedical engineering—sometimes referred to as bioengineering, BioMed or BME—is a field that applies engineering principles to biology, physiology and medicine to enhance the quality of life for populations with ever-growing lifespans and to assist in finding cures for disease.</p>
                             <p class="mb-4 size-18">The bachelor’s degree in Biomedical Engineering at Marshall University, located in Huntington, West Virginia, highlights service, systems-based knowledge and sustainability, while combining traditional engineering approaches with emerging fields in biology and health sciences. The broad, technical foundation of Marshall’s bachelor’s degree in BME program strengthens your knowledge with a hands-on approach in the fields of biophysics, biomechanics, biomaterials, imaging, animal surgery and cancer.</p>

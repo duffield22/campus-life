@@ -67,7 +67,7 @@ session_start();
           <!-- Degree Start -->
           <div class="row align-items-center mb-5"id=1>
               <div class="col-lg-12 col-md-12">
-                  <div class="text-sub mt-5 mt-lg-0">
+                  <div class="text-sub mt-5">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/anthropology-ba/">Anthropology, B.A.</a></h3>
                       <h4 class="header-colorize">What is Anthropology?</h4>
                           <p class="mb-4 size-18">From the Greek anthropos (“human”) and logia (“study”), anthropology is the study of humankind. For anthropologists, there are few limits on the scope of our inquiry—from distant human origins to the immediacy of our present day.</p>

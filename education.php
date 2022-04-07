@@ -14,7 +14,7 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of Education<br /> and Professional<span class="mobile-br"></span> <br class="desktop-br"> Development</h2>
+                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of<br /> Education<br /> and Professional<span class="mobile-br"></span> <br class="desktop-br"> Development</h2>
                       <h3 class="highlight header-colorize text-uppercase mb-3 mt-3">Undergraduate<span class="mobile-br"></span> <br class="desktop-br">Programs</h3>
 
                       <p class="text-sub size-16">The college of Education and Professional Development at Marshall University has 3 undergraduate programs. Select one below to learn more.</p>
@@ -35,7 +35,7 @@ session_start();
           <!-- Degree Start -->
           <div class="row align-items-center mb-5"id=1>
               <div class="col-lg-12 col-md-12">
-                  <div class="text-sub mt-5 mt-lg-0">
+                  <div class="text-sub mt-5">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/early-childhood-education-ba/">Early Childhood<span class="mobile-br"></span> <br class="desktop-br"> Education, B.A.</a></h3>
                           <p class="mb-4 size-18">Excellent teachers serve as a powerful influence on even the very youngest children. Early childhood education can help to launch a child’s cognitive and social development, and provide a vital foundation for future success.</p>
                             <p class="mb-4 size-18">For those who are passionate about teaching and guiding small children, Marshall University in Huntington, West Virginia, offers the Bachelor of Arts (BA) degree in Early Childhood Education. This bachelor’s degree is a blended plan with Early Childhood Education and Preschool Special Needs, enabling Marshall students to gain licensure in both areas.</p>

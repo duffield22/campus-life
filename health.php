@@ -13,7 +13,7 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of Health Professions</h2>
+                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of <br />Health Professions</h2>
                       <h3 class="highlight header-colorize text-uppercase mb-3 mt-3">Undergraduate<span class="mobile-br"></span> <br class="desktop-br">Programs</h3>
 
                       <p class="text-sub size-16">The college of health professions at Marshall University has 15 undergraduate programs. Select one below to learn more.</p>
@@ -57,7 +57,7 @@ session_start();
           <!-- Degree Start -->
           <div class="row align-items-center mb-5" id=1>
               <div class="col-lg-12 col-md-12">
-                  <div class="text-sub mt-5 mt-lg-0">
+                  <div class="text-sub mt-5">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/athletic-training-bsms/">Athletic Training<span class="mobile-br"></span> <br class="desktop-br">, B.S/M.S.</a></h3>
                           <p class="mb-4 size-18">Athletic trainers (ATs) are healthcare professionals who collaborate with physicians to provide preventive services, emergency care, clinical diagnosis, therapeutic intervention and rehabilitation of injuries and medical conditions. Athletic trainers are an integral part of healthcare in many clinical settings. The certified athletic trainer has the medical and physiological skills necessary to provide initial assessment and treatment of injury and the foresight to reduce the risk of their occurrence.</p>
                             <p class="mb-4 size-18">Marshall University in Huntington, West Virginia, offers a professional degree program that enables students to earn both a bachelor’s degree in Athletic Training and a master’s degree in AT through MU’s 3 + 2 plan. Students who already have a bachelor’s degree can just pursue the Master of Science in Athletic Training degree program.</p>

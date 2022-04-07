@@ -13,7 +13,7 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">Greek Life</h2>
+                      <h1 class="highlight header-colorize text-uppercase mb-3 mt-3">Greek Life</h1>
                       <p class="text-sub size-16">Join a Marshall Fraternity or Sorority!</p>
                   </div>
               </div>
@@ -21,7 +21,7 @@ session_start();
           <div class="dropdown" id="dd">
             <button class="dropbtn" >Dropdown Selection</button>
             <div class="dropdown-content">
-              <hr class="dropdown-divider"><strong>Fraternities</strong>
+              <p class="dropdiv"><strong>Fraternities</strong></p>
               <a href="#1">Alpha Sigma Phi</a>
               <hr class="dropdown-divider">
               <a href="#2">Alpha Tau Omega</a>
@@ -35,7 +35,7 @@ session_start();
               <a href="#6">Sigma Phi Epsilon</a>
               <hr class="dropdown-divider">
               <a href="#7">Sigma Tau Gamma</a>
-              <hr class="dropdown-divider"><strong>Sororities</strong>
+              <p class="dropdiv"><strong>Sororities</strong></p>
               <a href="#8">Alpha Chi Omega</a>
               <hr class="dropdown-divider">
               <a href="#9">Alpha Xi Delta</a>
@@ -43,7 +43,7 @@ session_start();
               <a href="#10">Delta Zeta</a>
               <hr class="dropdown-divider">
               <a href="#11">Sigma Sigma Sigma</a>
-              <hr class="dropdown-divider"><strong>National Panhellenic Council</strong>
+              <p class="dropdiv"><strong>National Panhellenic Council</strong></p>
               <a href="#12">Alpha Phi Alpha Fraternity Inc.</a>
               <hr class="dropdown-divider">
               <a href="#13">Alpha Kappa Alpha Sorority Inc.</a>
@@ -55,7 +55,7 @@ session_start();
               <a href="#16">Delta Sigma Theta Sorority Inc.</a>
             </div>
           </div>
-          <div class="row align-items-center">
+          <div class="row align-items-center mt-5">
               <div class="col-lg-5">
                   <img src="http://www.marshall.edu/student-activities/files/2014/01/OFSL-Logo-300x249.jpg" alt="" class="img-fluid mx-auto d-block">
               </div>

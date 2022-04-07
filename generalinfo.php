@@ -9,10 +9,18 @@ session_start();
 
   <!-- About Start -->
   <section class="section bg-grey" id="about">
+    <div class="container-video container-fluid">
+      <div class="col-lg-12">
+    <h3 class="header-colorize text-uppercase mt-5">Marshall University Experience</h3>
+    <div class="video-container">
+      <iframe class="video" src="https://www.youtube.com/embed/3XHAF9f-zTg?autoplay=1&mute=1" allowfullscreen></iframe>
+    </div>
+  </div>
+    </div>
       <div class="container">
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
-                  <div class="text-center mb-5">
+                  <div class="text-center mb-5 mt-5">
                       <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">Program. Major.<br />Area of Emphasis.</h2>
                       <h3 class="highlight header-colorize text-uppercase mb-5 mt-3">What’s the Difference?</h3>
 
@@ -70,13 +78,6 @@ session_start();
                     </div>
                 </div>
               </div>
-              <div class="container-video container-fluid">
-                <div class="col-lg-12">
-              <h3 class="header-colorize text-uppercase mt-5">Marshall University Experience</h3>
-              <div class="video-container">
-                <iframe class="video" src="https://www.youtube.com/embed/3XHAF9f-zTg?autoplay=1&mute=1" allowfullscreen></iframe>
-              </div>
-            </div>
-              </div>
+
   </section>
 <?php require('components/footer.inc.php'); ?>

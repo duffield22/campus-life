@@ -20,9 +20,10 @@
                 Academics
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="generalinfo.php">General Info</a></li>
+                  <li><p class="dropdiv"><strong>General Info</strong></li></p>
+                <li><a class="dropdown-item" href="generalinfo.php">Experience Marshall</a></li>
 
-                <li><hr class="dropdown-divider"><strong>Undergraduate Programs</strong></li>
+                <li><p class="dropdiv"><strong>Undergraduate Programs</strong></li></p>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="health.php">College of Health Professions</a></li>
                 <li><hr class="dropdown-divider"></li>
@@ -37,7 +38,7 @@
                 <li><a class="dropdown-item" href="business.php">College of Business</a></a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="artsandmedia.php">College of Arts and Media</a></li>
-                <li><hr class="dropdown-divider">,<strong>Graduate Programs</strong></li>
+                <li><p class="dropdiv"><strong>Graduate Programs</strong></li></p>
                 <li><a class="dropdown-item" href="#">Coming Soon</a></li>
               </ul>
             </li>

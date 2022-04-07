@@ -15,7 +15,7 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of <span class="mobile-br"></span> <br class="desktop-br">Arts and <span class="mobile-br"></span> <br class="desktop-br">Media</h2>
+                      <h1 class="highlight header-colorize text-uppercase mb-3 mt-3">College of <span class="mobile-br"></span> <br class="desktop-br">Arts and <span class="mobile-br"></span> <br class="desktop-br">Media</h1>
                       <h3 class="highlight header-colorize text-uppercase mb-3 mt-3">Undergraduate<span class="mobile-br"></span> <br class="desktop-br">Programs</h3>
 
                       <p class="text-sub size-16">The college of Arts and Media at Marshall University has 11 undergraduate programs. Select one below to learn more.</p>
@@ -53,7 +53,7 @@ session_start();
           <!-- Degree Start -->
           <div class="row align-items-center mb-5"id=1>
               <div class="col-lg-12 col-md-12">
-                  <div class="text-sub mt-5 mt-lg-0">
+                  <div class="text-sub mt-5">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/advertising-and-public-relations-ba/">Advertising and<span class="mobile-br"></span> <br class="desktop-br"> Public Relations, B.A.</a></h3>
                           <p class="mb-4 size-18">The fields of Advertising and Public Relations are increasingly complex given the ever-changing impact of technology, new media, emerging communication channels and platforms, and more. Traditional functions in Advertising and Public Relations are paired with new realities in such areas as social media, web management, multimedia, video production and data management.</p>
                             <p class="mb-4 size-18">Professionals in Advertising and Public Relations require a strong foundation in skills and strategies to excel in today’s workplaces and be ready to adapt and grow successfully in the future. Marshall University in Huntington, West Virginia, fully prepares undergraduates for these dynamic career paths with the Bachelor of Arts (BA) degree in Advertising and Public Relations.</p>

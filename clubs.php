@@ -10,40 +10,61 @@ session_start();
   <!-- About Start -->
   <section class="section bg-grey" id="about">
       <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-8">
+                <div class="text-center mb-5">
+                    <h1 class="highlight header-colorize text-uppercase mb-3 mt-3">Marshall<br /> University<span class="mobile-br"></span> <br class="desktop-br">Clubs</h1>
+                    <p class="text-sub size-16">Join a Marshall University club today!</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="row align-items-center mt-5">
+            <div class="col-lg-5">
+                <img src="http://www.marshall.edu/student-activities/files/3207_HerdLink_Postcard-1_Page_1.jpg" alt="" class="img-fluid mx-auto d-block">
+            </div>
+            <div class="col-lg-6 offset-lg-1">
+                <div class="text-sub mt-5 mt-lg-0">
+                    <h3 class="title font-weight-medium mb-4 header-colorize">Student Organizations</h3>
+                      <p class="mb-4 size-18">Discover unique opportunities at Marshall University by joining one of the many clubs offered at Marshall University.</p>
+                </div>
+            </div>
+        </div>
+        <div class="dropdown" id="dd">
+          <button class="dropbtn">Dropdown Selection</button>
+          <div class="dropdown-content">
+            <p class="dropdiv"><strong>Clubs</strong></p>
+            <a href="#1">Anime & Manga</a>
+            <hr class="dropdown-divider">
+            <a href="#2">Archery</a>
+            <hr class="dropdown-divider">
+            <a href="#3">Ascenders Climbing</a>
+            <hr class="dropdown-divider">
+            <a href="#4">Esports Association</a>
+            <hr class="dropdown-divider">
+            <a href="#5">Fencing</a>
+            <hr class="dropdown-divider">
+            <a href="#6">Force of Thundering Will</a>
+            <hr class="dropdown-divider">
+            <a href="#7">King of Kings Chess</a>
+            <hr class="dropdown-divider">
+            <a href="#8">Rugby football</a>
+            <hr class="dropdown-divider">
+            <a href="#9">Marshall Smashers</a>
+            <hr class="dropdown-divider">
+            <a href="#10">The Marching Thunder</a>
+            <p class="dropdiv"><strong>More Coming Soon</strong></p>
+          </div>
+        </div>
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
-                  <div class="text-center mb-5">
+                  <div class="text-center mb-5 mt-5">
                       <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">Anime & Manga<span class="mobile-br"></span> <br class="desktop-br">Association</h2>
                       <p class="text-sub size-16">Many people love anime, so it is no surprise that Marshall University would have their own club.</p>
                   </div>
               </div>
           </div>
-          <div class="dropdown" id="dd">
-            <button class="dropbtn">Dropdown Selection</button>
-            <div class="dropdown-content">
-              <hr class="dropdown-divider"><strong>Clubs</strong>
-              <a href="#1">Anime & Manga</a>
-              <hr class="dropdown-divider">
-              <a href="#2">Archery</a>
-              <hr class="dropdown-divider">
-              <a href="#3">Ascenders Climbing</a>
-              <hr class="dropdown-divider">
-              <a href="#4">Esports Association</a>
-              <hr class="dropdown-divider">
-              <a href="#5">Fencing</a>
-              <hr class="dropdown-divider">
-              <a href="#6">Force of Thundering Will</a>
-              <hr class="dropdown-divider">
-              <a href="#7">King of Kings Chess</a>
-              <hr class="dropdown-divider">
-              <a href="#8">Rugby football</a>
-              <hr class="dropdown-divider">
-              <a href="#9">Marshall Smashers</a>
-              <hr class="dropdown-divider">
-              <a href="#10">The Marching Thunder</a>
-              <hr class="dropdown-divider"><strong>More Coming Soon</strong>
-            </div>
-          </div>
+
           <div class="row align-items-center" id=1>
               <div class="col-lg-5">
                   <img src="https://i.pinimg.com/736x/cc/ca/f5/cccaf5719de6c63b42cbde2c3b842a75--do-you-anime-characters.jpg" alt="Anime Club" class="img-fluid mx-auto d-block">

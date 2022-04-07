@@ -13,7 +13,7 @@ session_start();
           <div class="row justify-content-center">
               <div class="col-lg-6 col-md-8">
                   <div class="text-center mb-5">
-                      <h2 class="highlight header-colorize text-uppercase mb-3 mt-3">College of Science</h2>
+                      <h1 class="highlight header-colorize text-uppercase mb-3 mt-3">College of Science</h1>
                       <h3 class="highlight header-colorize text-uppercase mb-3 mt-3">Undergraduate<span class="mobile-br"></span> <br class="desktop-br">Programs</h3>
 
                       <p class="text-sub size-16">The college of science at Marshall University has 24 undergraduate programs. Select one below to learn more.</p>
@@ -57,7 +57,7 @@ session_start();
           <!-- Degree Start -->
           <div class="row align-items-center mb-5"id=1>
               <div class="col-lg-12 col-md-12">
-                  <div class="text-sub mt-5 mt-lg-0">
+                  <div class="text-sub mt-5">
                       <h3 class="highlight header-colorize text-uppercase mb-4"><a href="https://www.marshall.edu/academics/programs/biochemistry-bs/">Biochemistry, B.S.</a></h3>
                           <p class="mb-4 size-18">Biochemistry is a laboratory-based science that brings together biology (bio) and chemistry to explore chemical processes related to living organisms and to study what happens inside cells at the molecular level</p>
                             <p class="mb-4 size-18">Biochemistry influences a range of scientific disciplines, including genetics, microbiology, forensics, plant science and medicine. Studying Biochemistry puts you at the heart of scientific research and discovery to better understand and support our lives.</p>
