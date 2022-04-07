@@ -20,7 +20,7 @@ session_start();
           </div>
           <div class="dropdown" id="dd">
             <button class="dropbtn" >Dropdown Selection</button>
-            <div class="dropdown-content">
+            <div class="dropdown-content scroll-menu">
               <p class="dropdiv"><strong>Fraternities</strong></p>
               <a href="#1">Alpha Sigma Phi</a>
               <hr class="dropdown-divider">

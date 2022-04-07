@@ -25,7 +25,7 @@ session_start();
 
           <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
-            <div class="dropdown-content">
+            <div class="dropdown-content  scroll-menu">
               <a href="#1">Advertising and Public Relations</a>
               <hr class="dropdown-divider">
               <a href="#2">Art</a>

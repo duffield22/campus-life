@@ -23,7 +23,7 @@ session_start();
           </div>
           <div class="dropdown" id="dd">
             <button class="dropbtn">Dropdown Selection</button>
-            <div class="dropdown-content">
+            <div class="dropdown-content  scroll-menu">
               <a href="#1">Biomedical Engineering</a>
               <hr class="dropdown-divider">
               <a href="#2">Civil Engineering</a>

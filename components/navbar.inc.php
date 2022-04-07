@@ -19,7 +19,7 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 ACADEMICS
               </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <ul class="dropdown-menu scroll-menunav" aria-labelledby="navbarDropdown">
                   <li><p class="dropdiv"><strong>General Info</strong></li></p>
                 <li><a class="dropdown-item" href="generalinfo.php">Experience Marshall</a></li>
 

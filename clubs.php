@@ -32,7 +32,7 @@ session_start();
         </div>
         <div class="dropdown" id="dd">
           <button class="dropbtn">Dropdown Selection</button>
-          <div class="dropdown-content">
+          <div class="dropdown-content  scroll-menu">
             <p class="dropdiv"><strong>Clubs</strong></p>
             <a href="#1">Anime & Manga</a>
             <hr class="dropdown-divider">

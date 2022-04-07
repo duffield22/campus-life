@@ -553,6 +553,16 @@ color: #00ac3e;
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 /* media queries  */
 
+.scroll-menunav {
+    height: auto;
+    max-height: 900px;
+    overflow-x: hidden;
+}
+.scroll-menu {
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
 @media screen and (max-width: 1500px) {
 .big-heading {
   font-size:120px;
@@ -592,6 +602,12 @@ color: #00ac3e;
 .logo {
 height:120px;
 width:150px;
+}
+
+.scroll-menu {
+    height: auto;
+    max-height: 250px;
+    overflow-x: hidden;
 }
 }
 
