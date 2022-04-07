@@ -17,7 +17,7 @@ session_start();
     </div>
 
 
-    <div class="row content mb-5">
+    <div class="row content">
       <div class="col">
         <h2 class="small-heading">Join a Marshall Organization!<br /> A welcoming community.   A tradition of success.</h2>
 
@@ -25,7 +25,7 @@ session_start();
     </div>
 
 
-    <div class="row content">
+    <div class="row content mt-3">
       <div class="col">
         <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-xl btn-light ">APPLY NOW</a>
         <a href="http://apply-new.marshall.edu/register/info-request/" class="info btn btn-xl btn-dark ">REQUEST INFO</a>

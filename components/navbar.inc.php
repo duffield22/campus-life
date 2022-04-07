@@ -4,7 +4,7 @@
     <nav class="navbar navbar-expand-xl navbar-dark ">
       <div class="container-fluid">
         <a class="navbar-brand" href="index.php">
-        <img class="logo" src="images/mulogo.png" alt="MU Logo" height="150px" width="180px">
+        <img class="logo" src="images/mulogo.png" alt="MU Logo">
        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -17,7 +17,7 @@
             <!-- Dropdown menu Academics -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Academics
+                ACADEMICS
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li><p class="dropdiv"><strong>General Info</strong></li></p>
@@ -46,7 +46,7 @@
             <!-- Dropdown menu Athletics -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Athletics
+                ATHLETICS
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="#">Coming Soon</a></li>
@@ -58,7 +58,7 @@
             <li class="navbar-nav d-flex">
               <ul>
                 <li class="nav-item">
-                    <a class="nav-link" href="greeklife.php"  role="button"  aria-expanded="false">Greek Life</a></li>
+                    <a class="nav-link" href="greeklife.php"  role="button"  aria-expanded="false">GREEK LIFE</a></li>
                 </li>
               </ul>
 
@@ -66,7 +66,7 @@
           <li class="navbar-nav d-flex">
             <ul>
               <li class="nav-item">
-                  <a class="nav-link" href="clubs.php"  role="button"  aria-expanded="false">Clubs</a></li>
+                  <a class="nav-link" href="clubs.php"  role="button"  aria-expanded="false">CLUBS</a></li>
               </li>
             </ul>
 
@@ -84,7 +84,7 @@
               <li class="navbar-nav d-flex">
                 <ul>
                   <li class="nav-item">
-                      <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">Contact</a></li>
+                      <a class="nav-link" href="contact.php"  role="button"  aria-expanded="false">CONTACT</a></li>
                   </li>
                 </ul>
 
