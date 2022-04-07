@@ -19,7 +19,7 @@ session_start();
 
     <div class="row content mb-5">
       <div class="col">
-        <h2 class="small-heading">Join a Marshall Organization!<br /> A welcoming community. <br /> A tradition of success.</h2>
+        <h2 class="small-heading">Join a Marshall Organization!<br /> A welcoming community.   A tradition of success.</h2>
 
       </div>
     </div>
