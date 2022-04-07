@@ -19,7 +19,7 @@ session_start();
             </div>
 
         </div>
-        <div class="row align-items-center mt-5">
+        <div class="row align-items-center mb-5">
             <div class="col-lg-5">
                 <img src="http://www.marshall.edu/student-activities/files/3207_HerdLink_Postcard-1_Page_1.jpg" alt="" class="img-fluid mx-auto d-block">
             </div>
