@@ -1,5 +1,11 @@
 <?php
-
+// Initialize the session
+session_start();
+// Check if the user is logged in, if not then redirect him to login page
+if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
+    header("location: ../login.php");
+    exit;
+}
     // connect with database
     $conn = new PDO("mysql:host=localhost;dbname=test", "root", "");
 
@@ -29,7 +35,7 @@ if (isset($_POST["submit"]))
     ]);
 
     // redirect back to previous page
-header("Location: faq.php");
+header("Location: add.php");
 }
 
 ?>

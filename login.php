@@ -34,8 +34,6 @@ session_start();
                   <input type="submit" class="submit-btn btn btn-block btn-dark mt-4" value="Login">
               </div>
 
-
-            <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
         </form>
       </div>
     </div>

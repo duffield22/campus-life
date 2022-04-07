@@ -11,8 +11,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 
 
       <!-- BODY SECTION -->
-      <section class="bg-index py-5" id="body-section">
-      <div class="container-lg">
+      <section class="bg-index" id="body-section">
+      <div class="container-fluid">
         <div class="row content">
           <div class="col">
             <h1 class="big-heading">CAMPUS</br> LIFE.</h1>
@@ -22,12 +22,23 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
             <h1 class="my-5">Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>.<br> Welcome to CAMPUS LIFE.</h1>
           </div>
         </div>
-        <div class="row content">
+        <div class="row content mt-3">
           <div class="col">
-            <h2 class="small-heading">Join a Marshall Organization!<br /> A welcoming community. <br /> A tradition of success.</h2>
-            <h3 class="small-heading">Check out some of Marshalls Clubs, Fraternities, and Sororities.<br />Visit the contact page to contact an orgnazation directly. <br /></h3>
+            <a href="admin/add.php" class="apply btn btn-xl btn-light ">EDIT FAQS</a>
+            <a href="components/logout.php" class="info btn btn-xl btn-dark ">LOGOUT</a>
           </div>
         </div>
       </div>
+      </div>
       </section>
+
+
+
+
+
+
+
+
+
+
 <?php require('components/footer.inc.php'); ?>

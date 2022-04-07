@@ -1,5 +1,12 @@
 <?php
+// Initialize the session
+session_start();
 
+// Check if the user is logged in, if not then redirect him to login page
+if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
+    header("location: ../login.php");
+    exit;
+}
     // connect with database
     $conn = new PDO("mysql:host=localhost;dbname=test", "root", "");
 
@@ -44,6 +51,7 @@
 <script src="richtext/jquery.richtext.js"></script>
 
 <!-- layout for form to add FAQ -->
+  <a href="../welcome.php" class="apply btn btn-xl btn-light ">Go Back</a>
 <div class="container" style="margin-top: 50px; margin-bottom: 50px;">
     <div class="row">
         <div class="offset-md-3 col-md-6">
