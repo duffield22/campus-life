@@ -17,7 +17,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.5.3/js/bootstrapValidator.min.js"></script>
 <script src="https://kit.fontawesome.com/4f2b31550f.js" crossorigin="anonymous"></script>
 <!-- include JS -->
-<script src="faq/js/jquery-3.3.1.min.js"></script>
-<script src="faq/js/bootstrap.js"></script>
+<script src="admin/js/jquery-3.3.1.min.js"></script>
+<script src="admin/js/bootstrap.js"></script>
 </body>
 </html>

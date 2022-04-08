@@ -28,7 +28,7 @@ session_start();
     <div class="row content mt-3">
       <div class="col">
         <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-xl btn-light ">APPLY NOW</a>
-        <a href="http://apply-new.marshall.edu/register/info-request/" class="info btn btn-xl btn-dark ">REQUEST INFO</a>
+        <a href="generalinfo.php" class="info btn btn-xl btn-dark ">EXPERIENCE MARSHALL</a>
       </div>
     </div>
   </div>

@@ -13,8 +13,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Open+Sans:wght@600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
-  <!-- include JS -->
-  <script src="faq/js/jquery-3.3.1.min.js"></script>
-  <script src="faq/js/bootstrap.js"></script>
+
 </head>
 <body>
