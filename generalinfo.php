@@ -68,11 +68,11 @@ session_start();
                 <!-- Apply a request info buttons -->
                 <div class="col-lg-10 offset-lg-1">
                 <div class="text-sub mt-5">
-                  <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase">Ready To Apply?</h3>
+                  <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase mt-5">Ready To Apply?</h3>
                   <div class="row content">
                     <div class="col">
-                      <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-lg btn-light col-lg-3 col-md-3">Apply Now</a>
-                      <a href="http://apply-new.marshall.edu/register/info-request/" class="apply btn btn-lg btn-dark col-lg-3 col-md-3">Request Info</a>
+                      <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-lg btn-dark col-lg-3 col-md-3">Apply Now</a>
+                      <a href="http://apply-new.marshall.edu/register/info-request/" class="applygeninfo btn btn-lg btn-dark col-lg-3 col-md-3">Request Info</a>
                     </div>
                   </div>
                     </div>

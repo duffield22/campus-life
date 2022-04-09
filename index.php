@@ -21,13 +21,13 @@ session_start();
 
     <div class="row content">
       <div class="col">
-        <h2 class="small-heading">Join a Marshall Organization!<br /> A welcoming community. <span class="mobile-br"></span> <br class="desktop-br">  A tradition of success.</h2>
+        <h2 class="small-heading mb-3">Join a Marshall Organization!<br /> A welcoming community. <span class="mobile-br"></span> <br class="desktop-br">  A tradition of success.</h2>
 
       </div>
     </div>
 
 
-    <div class="row content mt-3">
+    <div class="row content">
       <div class="col">
         <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-xl btn-light ">APPLY NOW</a>
         <a href="generalinfo.php" class="info btn btn-xl btn-dark ">EXPERIENCE MARSHALL</a>
