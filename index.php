@@ -21,7 +21,7 @@ session_start();
 
     <div class="row content">
       <div class="col">
-        <h2 class="small-heading mb-3">Join a Marshall Organization!<br /> A welcoming community. <span class="mobile-br"></span> <br class="desktop-br">  A tradition of success.</h2>
+        <h2 class="small-heading mb-3">Join a Marshall Organization!<span class="desktop-br"></span> <br class="mobile-br"> A welcoming community. <span class="desktop-br"></span> <br class="mobile-br">  A tradition of success.</h2>
 
       </div>
     </div>

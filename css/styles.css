@@ -151,7 +151,7 @@ font-family: 'Open Sans', sans-serif;
   font-weight:600;
   font-size:35px;
 letter-spacing: .05rem;
-line-height: 45px;
+line-height: 55px;
     text-shadow: 5px 5px 5px rgb(0 0 0 / 30%), 10px 10px 10px rgb(0 0 0 / 40%);
 
 }
@@ -588,7 +588,8 @@ color: #00ac3e;
   font-size:120px;
 }
 .small-heading {
-  font-size: 25px;
+  font-size: 30px;
+  line-height: 40px;
 }
 
 
@@ -599,7 +600,7 @@ color: #00ac3e;
 }
 .small-heading {
   font-size: 25px;
-  line-height: 25px;
+  line-height: 35px;
 }
 .logo {
 height:120px;
@@ -622,8 +623,8 @@ width:150px;
     text-align: center;
   }
   .small-heading {
-    font-size:35px;
-  text-align: center;
+    font-size:25px;
+
   line-height: 30px;
 
   }
@@ -665,29 +666,23 @@ width:150px;
 
   .big-heading {
     font-size:60px;
-
-
     text-align: center;
   }
   .small-heading {
-    font-size:24px;
-  text-align: center;
+  font-size:19px;
+  text-rendering: optimizeLegibility;
   line-height: 30px;
   }
-
 }
 
 @media screen and (max-width: 420px) {
 
   .big-heading {
     font-size:35px;
-margin-top: 350px;
-
+    margin-top: 350px;
     text-align: center;
   }
   .small-heading {
-    font-size:23px;
-  text-align: center;
   line-height: 30px;
   }
 
