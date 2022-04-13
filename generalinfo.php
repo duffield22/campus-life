@@ -64,20 +64,36 @@ session_start();
                   </div>
               </div>
 
-
-                <!-- Apply a request info buttons -->
+                <!-- Admissions -->
                 <div class="col-lg-10 offset-lg-1">
                 <div class="text-sub mt-5">
-                  <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase mt-5">Ready To Apply?</h3>
+                  <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase mt-5">Admissions</h3>
                   <div class="row content">
                     <div class="col">
-                      <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-lg btn-dark col-lg-3 col-md-3">Apply Now</a>
-                      <a href="http://apply-new.marshall.edu/register/info-request/" class="applygeninfo btn btn-lg btn-dark col-lg-3 col-md-3">Request Info</a>
+                        <p class="mb-4 size-18">If you have graduated from high school and have not yet enrolled in any college or university, you can apply to be a first-year freshman student at Marshall. Marshall by visiting campus, meeting our Admissions team, learning about our academic programs, and more.</p>
+                        <p class="mb-4 size-18">Applying for admission to Marshall University is easy. We provide all the steps you need to complete the undergraduate admission process to apply and be admitted as a Marshall freshman.</p>
+                        <p class="mb-4 size-18">Your first step is to review all of our freshman admission requirements, including undergraduate application deadlines, and then apply.</p>
+                        <p class="mb-4 size-18">After you submit your completed undergraduate application, application fee, and all required freshman admission materials, we will review your file and notify you about our admission decision.</p>
+                        <a href="https://www.marshall.edu/admissions/undergraduate/freshman/" class="learn-more size-15 mb-5">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
                     </div>
                   </div>
-                    </div>
+                </div>
+                </div>
+
+
+              <!-- Apply a request info buttons -->
+              <div class="col-lg-10 offset-lg-1">
+              <div class="text-sub mt-5">
+                <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase mt-5">Ready To Apply?</h3>
+                <div class="row content">
+                  <div class="col">
+                    <a href="http://www.marshall.edu/admissions/apply/" class="apply btn btn-lg btn-dark col-lg-3 col-md-3">Apply Now</a>
+                    <a href="http://apply-new.marshall.edu/register/info-request/" class="applygeninfo btn btn-lg btn-dark col-lg-3 col-md-3">Request Info</a>
+                  </div>
                 </div>
               </div>
+              </div>
+      </div>
 
   </section>
 <?php require('components/footer.inc.php'); ?>
