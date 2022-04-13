@@ -151,7 +151,7 @@ font-family: 'Open Sans', sans-serif;
   font-weight:600;
   font-size:35px;
 letter-spacing: .05rem;
-line-height: 40px;
+line-height: 45px;
     text-shadow: 5px 5px 5px rgb(0 0 0 / 30%), 10px 10px 10px rgb(0 0 0 / 40%);
 
 }
@@ -597,6 +597,10 @@ color: #00ac3e;
 .big-heading {
   font-size:100px;
 }
+.small-heading {
+  font-size: 25px;
+  line-height: 25px;
+}
 .logo {
 height:120px;
 width:150px;
@@ -620,7 +624,7 @@ width:150px;
   .small-heading {
     font-size:35px;
   text-align: center;
-  line-height: 25px;
+  line-height: 30px;
 
   }
 .apply {
@@ -661,19 +665,19 @@ width:150px;
 
   .big-heading {
     font-size:60px;
-margin-top: 400px;
+
 
     text-align: center;
   }
   .small-heading {
     font-size:24px;
   text-align: center;
-  line-height: 25px;
+  line-height: 30px;
   }
 
 }
 
-@media screen and (max-width: 401px) {
+@media screen and (max-width: 420px) {
 
   .big-heading {
     font-size:35px;
@@ -684,7 +688,7 @@ margin-top: 350px;
   .small-heading {
     font-size:23px;
   text-align: center;
-  line-height: 25px;
+  line-height: 30px;
   }
 
 }
