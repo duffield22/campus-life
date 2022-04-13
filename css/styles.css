@@ -525,6 +525,14 @@ h4 {
       background: black;
       border-bottom: 1px solid black;
 }
+.orgSelection {
+    font-weight: bold;
+    color:#00ac3e;
+}
+
+option {
+  color: black;
+}
 
 hr.dropdown-divider{
   background: green;

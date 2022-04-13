@@ -68,7 +68,7 @@ session_start();
                             <div class="md-form py-3">
                                 <select id="department-selection" class="float-start" name="concerned_department">
                                     <option value="">Select an Organization</option>
-                                    <option disabled style="font-weight:bold;color:black">Colleges</option>
+                                    <optgroup class="orgSelection" label="Colleges">
                                     <option value="college1">College of Health Professions</option>
                                     <option value="college2">College of Engineering and Computer Science</option>
                                     <option value="college3">College of Education and Professional Development</option>
@@ -76,7 +76,8 @@ session_start();
                                     <option value="college5">College of Liberal Arts</option>
                                     <option value="college6">College of Business</option>
                                     <option value="college7">College of Arts and Media</option>
-                                    <option disabled style="font-weight:bold;color:black">Clubs</option>
+                                    </optgroup>
+                                    <optgroup class="orgSelection" label="Clubs">
                                     <option value="club1">Anime and Manga</option>
                                     <option value="club2">Archery</option>
                                     <option value="club3">Marching Thunder</option>
@@ -87,7 +88,8 @@ session_start();
                                     <option value="club8">Rugby Football</option>
                                     <option value="club9">Esports Association</option>
                                     <option value="club10">Force of Thundering Will</option>
-                                    <option disabled style="font-weight:bold;color:black">Interfraternity Recruitment</option>
+                                    </optgroup>
+                                    <optgroup class="orgSelection" label="Interfraternity Recruitment">
                                     <option value="fraternity1">Alpha Sigma Phi</option>
                                     <option value="fraternity2">Alpha Tau Omega</option>
                                     <option value="fraternity3">Kappa Alpha Order</option>
@@ -95,18 +97,21 @@ session_start();
                                     <option value="fraternity5">Sigma Alpha Epsilon</option>
                                     <option value="fraternity6">Sigma Phi Epsilon</option>
                                     <option value="fraternity7">Sigma Tau Gamma</option>
-                                    <option disabled style="font-weight:bold;color:black">Panhellinic Sorority Recruitment</option>
+                                    </optgroup>
+                                    <optgroup class="orgSelection" label="Panhellinic Sorority Recruitment">
                                     <option value="sorority1">Alpha Chi Omega</option>
                                     <option value="sorority2">Alpha Xi Delta</option>
                                     <option value="sorority3">Delta Zeta</option>
                                     <option value="sorority4">Sigma Sigma Sigma</option>
-                                    <option disabled style="font-weight:bold;color:black">National Panhellinic Council</option>
+                                    </optgroup>
+                                    <optgroup class="orgSelection" label="National Panhellinic Council">
                                     <option value="panhellinic1">Alpha Phi Alpha Fraternity Inc.</option>
                                     <option value="panhellinic2">Alpha Kappa Alpha Sorority Inc.</option>
                                     <option value="panhellinic3">Kappa Alpha Psi Fraternity, Inc.</option>
                                     <option value="panhellinic4">Omega Psi Phi Fraternity Inc.</option>
                                     <option value="panhellinic5">Delta Sigma Theta Sorority Inc.</option>
-                                    <option disabled style="font-weight:bold;color:black">Other University Offices</option>
+                                    </optgroup>
+                                    <optgroup class="orgSelection" label="Other University Offices">
                                     <option value="undergradadmissions">Undergraduate Admissions</option>
                                     <option value="gradadmissions">Graduate Admissions</option>
                                     <option value="bursars">Bursar’s Office</option>
@@ -114,7 +119,7 @@ session_start();
                                     <option value="hrlife">Housing & Residence Life</option>
                                     <option value="registrar">Registrar</option>
                                     <option value="saffairs">Student Affairs</option>
-
+                                    </optgroup>
                                 </select>
                             </div>
                         </div>
