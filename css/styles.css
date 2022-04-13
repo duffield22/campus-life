@@ -141,7 +141,7 @@ font-family: 'Open Sans', sans-serif;
     text-shadow: 5px 5px 5px rgb(0 0 0 / 30%), 10px 10px 10px rgb(0 0 0 / 40%);
   font-weight:700;
   font-size: 140px;
-  margin-top: 180px;
+  margin-top: 120px;
   z-index: 3;
 }
 
@@ -606,7 +606,7 @@ width:150px;
 @media screen and (max-width: 1025px) {
   .bg-index {
     /* Center and scale the image nicely */
-    background-position: 80% 10%;
+    background-position: 90% 10%;
   }
 
   .big-heading {
