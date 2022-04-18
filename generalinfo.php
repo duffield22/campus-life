@@ -80,6 +80,36 @@ session_start();
                 </div>
                 </div>
 
+                <!-- Housing and residence life -->
+                <div class="col-lg-10 offset-lg-1">
+                <div class="text-sub mt-5">
+                  <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase mt-5">Housing <span class="mobile-br"></span> <br class="desktop-br">and<span class="mobile-br"></span> <br class="desktop-br"> Residence Life</h3>
+                  <div class="row content">
+                    <div class="col">
+                        <p class="mb-4 size-18">You will feel right at home in one of Marshall University’s 9 residence halls for undergraduate students or our residential apartment community for graduate students. Either way, you’ll be close to campus facilities, activities and services, and be part of a dynamic college community where you’ll learn and grow with other Marshall students.</p>
+                        <p class="mb-4 size-18">With 9 choices for undergraduate residence halls (or dorms, as they used to be called!), there are plenty of options to choose from. Get a closer look at these options — and compare — to make your college housing choice.</p>
+                        <p class="mb-4 size-18">Living on campus also means taking advantage of Marshall’s many dining and food service options. Marshall Dining Services are professionally managed by Sodexo, where you can find information about menus, venues and more.</p>
+                        <a href="https://www.marshall.edu/housing/" class="learn-more size-15 mb-5">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                    </div>
+                  </div>
+                </div>
+                </div>
+
+                <!-- Student financal assistance -->
+                <div class="col-lg-10 offset-lg-1">
+                <div class="text-sub mt-5">
+                  <h3 class="mt-3 mb-5 highlight header-colorize text-uppercase mt-5">Student<span class="mobile-br"></span> <br class="desktop-br">Financial<span class="mobile-br"></span> <br class="desktop-br">Assistance</h3>
+                  <div class="row content">
+                    <div class="col">
+                        <p class="mb-4 size-18">As committed as we are to providing you with the best educational experience possible, we are also dedicated to ensuring that cost is not a barrier to your education at Marshall. Our primary objective is to assist you in planning for and meeting your educational costs.</p>
+                        <p class="mb-4 size-18">When affordability meets quality, the result is value. We are happy to provide prospective freshmen and their families the Marshall University Net Price Calculator tool that provides a personalized estimate of the costs and financial aid from federal, state, and institutional sources you may receive by attending Marshall University.</p>
+                        <p class="mb-4 size-18">Financial assistance in the form of scholarships, grants, loans, and work-study is available to full- and part-time students who qualify. The Office of Student Financial Assistance awards approximately $144 million of financial aid to undergraduate, graduate, and professional students</p>
+                        <a href="https://www.marshall.edu/sfa" class="learn-more size-15 mb-5">Learn more <span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
+                    </div>
+                  </div>
+                </div>
+                </div>
+
 
               <!-- Apply a request info buttons -->
               <div class="col-lg-10 offset-lg-1">
