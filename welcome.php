@@ -9,9 +9,9 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <?php require('components/head.inc.php'); ?>
 <?php include('components/navbar.inc.php'); ?>
 
-
       <!-- BODY SECTION -->
-      <section class="bg-index" id="body-section">
+      <section class="bg-index" style="--image-url: url(https://www.marshall.edu/wp-content/uploads/beckford.jpg)">
+        <div class="color-overlay"></div>
       <div class="container-fluid">
         <div class="row content">
           <div class="col">
