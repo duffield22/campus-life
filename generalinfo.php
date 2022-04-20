@@ -47,7 +47,7 @@ session_start();
                       <a href="https://www.marshall.edu/recruitment/tour-our-campus/" class="learn-more size-15">Tour Campus<span class="ml-2 right-icon"><i class="fas fa-arrow-right"></i></span></a>
                       <p class="mt-5 size-18">Learn more about financial assistance at Marshall:
                         <br /><a href="https://apply.marshall.edu/Account/Login?ReturnUrl=%2f">Register for an in-person tour</a>
-                        <br /><a href="https://apply.marshall.edu/Account/Login?ReturnUrl=%2f%3fID%3d1&ID=1">Register for an in-person tour</a>
+                        <br /><a href="https://apply.marshall.edu/Account/Login?ReturnUrl=%2f%3fID%3d1&ID=1">One-On-One Virtual Visit</a>
                         <br /><a href="https://www.marshall.edu/recruitment/files/2201_AdmissionsSelfGuidedTourGuide.pdf">Self-Guided Tour</a>
                         <br /><a href="https://www.marshall.edu/experience/73-questions-with-marshall-recruiters/">73 Questions with Marshall Admissions Staff</a>
                       </p>
