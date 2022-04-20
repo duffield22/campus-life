@@ -117,6 +117,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
         </table>
     </div>
 </div>
+<?php require('../components/comment-form.php'); ?>
 </div>
 
 
